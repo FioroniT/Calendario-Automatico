@@ -21,7 +21,7 @@ def convertir_hora(x):
     except:
         return '-'
 
-tabla = pd.ExcelFile('[2025] ICOM Horarios 1er cuatrimestre.xlsx')
+tabla = pd.ExcelFile('Examples\[2025] ICOM Horarios 1er cuatrimestre.xlsx')
 
 # ========== Horarios ==========#
 df = pd.read_excel(tabla, sheet_name='horarios', skiprows=7)
@@ -70,5 +70,5 @@ df_cal = pd.read_excel(tabla, sheet_name='calendario', skiprows=5)
 
 resultado = {'materias': materias}
 
-with open('materias_y_calendario.json', 'w', encoding='utf-8') as f:
+with open('Outputs\materias_y_calendario.json', 'w', encoding='utf-8') as f:
     json.dump(resultado, f, indent=4, ensure_ascii=False)
