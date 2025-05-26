@@ -66,7 +66,7 @@ for _, r in df.iterrows():
 
 # ========== Calendario académico ==========#
 df_cal = pd.read_excel(tabla, sheet_name='calendario', skiprows=5)
-
+df_cal.to_json("calendario.json", indent=4, force_ascii=False)
 
 resultado = {'materias': materias}
 
