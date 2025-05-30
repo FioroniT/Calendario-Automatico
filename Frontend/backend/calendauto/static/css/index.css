@@ -1,6 +1,8 @@
 .table-style{
   display: flex;
-  justify-self: center;
+  position: absolute;
+  top: 25%;
+  left: 37%;
   align-self: center;
   border: 5px;
 }
@@ -36,10 +38,11 @@
 .dropdown-content{
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   background-color: #eeeeee;
+  position:absolute;
   display: none;
   justify-self: center;
-  min-width: 160px;
-  max-width: 160px;
+  min-width: 500px;
+  max-width: 500px;
   z-index: 1;
   border: 1px
 }
@@ -49,8 +52,12 @@
   color: black;
   border: 4px;
   padding: 12px 16px;
+  min-width: 500px;
+  max-width: 500px;
+  align-content: center;
   text-decoration: none;
   font-family: "Arial";
+  z-index: 1;
 }
 
 .dropdown-content button:hover{

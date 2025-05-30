@@ -11,8 +11,13 @@ function generateMaterias(ncarrera) {
       button.style.borderRadius = "1px 1px 15px 15px";
     }
 
-    const checkBox = document.createElement('input');
+    const checkBox = document.createElement('button');
     checkBox.type = 'checkbox';
+    
+    button.addEventListener('click', function() {
+      checkBox.click();
+    });
+
     td.appendChild(checkBox);
     button.appendChild(td);
     tr.appendChild(button);
