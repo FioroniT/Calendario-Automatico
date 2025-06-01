@@ -65,26 +65,5 @@ for _, r in df.iterrows():
     else:
         materias[key]['horarios'].append(horario)
 
-# ========== Calendario académico ==========#
-# Almacenar tablas extraídas
-tablas = []
-
-with pdfplumber.open('Examples\calendario_academico.pdf') as pdf:
-    for i in range(2, 13):  # Páginas 3 a 13 (índice base 0)
-        pagina = pdf.pages[i]
-        # Extraer tablas
-        tablas_en_pagina = pagina.extract_tables()
-        for tabla in tablas_en_pagina:
-            encabezados = tabla[0]
-            filas = tabla[1:]
-            for fila in filas:
-                tablas.append(fila)
-
-# Crear el DataFrame (usa los encabezados de la primera tabla encontrada)
-df = pd.DataFrame(tablas)
-print(df)
-#df.to_json(f"calendario_academico.json", indent=4, force_ascii=False)
-
-
-#with open('Outputs\materias_y_calendario.json', 'w', encoding='utf-8') as f:
-#    json.dump(resultado, f, indent=4, ensure_ascii=False)
+with open('Outputs\materias.json', 'w', encoding='utf-8') as f:
+    json.dump(materias, f, indent=4, ensure_ascii=False)
