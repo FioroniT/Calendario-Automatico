@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Horarios a Calendario</title>
+    <link rel="icon" type="image/jpg" href="{{ url_for('static',filename='./images/favicon.jpg') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='./css/index.css') }}">
+
+  </head>
+  <body>
+    <table class="table-style"> 
+      <tr>
+        <td>
+          <p>Seleccione la carrera a la cual esta inscripto/a</p>
+        </td>
+      </tr> 
+      <tr>
+        <td>
+          <div class="dropdown">
+            <button onclick="dropDownCarreras()" class="dropbtn" id="carreras-btn">Carrera</button>
+            <div id="dpdw-carreras" class="dropdown-content"></div>
+          </div>
+        </td>
+      </tr> 
+      <tr>
+        <td>
+          <div id="holder-id" class="materias-holder">
+            <form id="materias">
+              <table id="materias-content"></table>
+              <button type="button">Generar Link</button>
+            </form>
+          </div>
+        </td>
+      </tr> 
+    </table>
+    <script src="{{ url_for('static',filename='./js/index.js') }}"></script>
+    <script src="{{ url_for('static',filename='./js/create-materias.js') }}"></script>
+    <script src="{{ url_for('static',filename='./js/create-carreras-btn.js') }}"></script>
+  </body>
+</html>

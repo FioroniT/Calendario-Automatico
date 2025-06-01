@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Horarios a Calendario</title>
+    <link rel="icon" type="image/jpg" href="./images/favicon.jpg">
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+
+  </head>
+  <body>
+    <p>Seleccione la carrera a la cual esta inscripto/a</p>
+    <div class="dropdown">
+      <button onclick="dropDown()" class="dropbtn" id="carreras-btn">Carrera</button>
+      <div id="dpdw-carreras" class="dropdown-content"></div>
+    </div>
+    <div class="materias-holder">
+      <form id="materias">
+        <table id="materias-content"></table>
+        <input type="submit" value="Generar link">
+      </form>
+    </div>
+    <script src="./js/index.js"></script>
+    <script src="./js/create-carreras-btn.js"></script>
+    <script src="./js/create-materias.js"></script>
+  </body>
+</html>
