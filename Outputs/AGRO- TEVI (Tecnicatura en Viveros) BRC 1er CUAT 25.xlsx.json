@@ -1,0 +1,314 @@
+{
+  "B5833-QUÍMICA": {
+    "docente": "AGÜERO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "15.00",
+        "fin": "17.00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C2",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5832- MATEMÁTICAS": {
+    "docente": "ARROYO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C2",
+        "dia": "VIERNES",
+        "inicio": "17.00",
+        "fin": "19.00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5802- BOTÁNICA MORFOLÓGICA": {
+    "docente": "PUNTIERI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15.00",
+        "fin": "17.00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "10:00",
+        "fin": "12:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C2",
+        "dia": "MARTES",
+        "inicio": "12:30",
+        "fin": "14:30",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5831-VIVEROS I": {
+    "docente": "SANCHEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": null,
+        "lugar": "VIVERO KM 11"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C2",
+        "dia": "MIÉRCOLES",
+        "inicio": "14.00",
+        "fin": "18.00",
+        "aula": null,
+        "lugar": "VIVERO KM 11"
+      }
+    ]
+  },
+  "B5830-TALLER DE ESTRATEGIAS DE ESTUDIOS Y ESCRITURA": {
+    "docente": "IPARRAGUIRRE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "09.00",
+        "fin": "11.00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "11.00",
+        "fin": "13.00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5809-FISIOLOGÍA VEGETAL": {
+    "docente": "MARCHETTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17.00",
+        "fin": "19.00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5837-VIVEROS II (ANUAL)": {
+    "docente": "GUSTAVO SANCHEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 7",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "14.00",
+        "fin": "18.00",
+        "aula": null,
+        "lugar": "VIVERO PJE GUTIERREZ"
+      }
+    ]
+  },
+  "B5839-MAQUINARIAS, HERRAMIENTAS Y SEGURIDAD": {
+    "docente": "FERENCICH",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "13:00",
+        "fin": "17:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5838-ESTADÍSTICA APLICADA": {
+    "docente": "ARROYO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "TIC´S 2",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5843-VIVEROS III": {
+    "docente": "NIJENSOHN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "13.00",
+        "fin": "15.00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "15.00",
+        "fin": "17.00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B0120-GESTIÓN DE RECURSOS NATURALES": {
+    "docente": "MARQUÉS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "14:00",
+        "fin": "17:00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "14:00",
+        "fin": "17:00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5844 – NUTRICION VEGETAL": {
+    "docente": "CASTÁN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "13.00",
+        "fin": "17.00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5846-PRACTICA PROFESIONAL": {
+    "docente": "MAZZONI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17.00",
+        "fin": "21.00",
+        "aula": "TIC´S 2",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  }
+}

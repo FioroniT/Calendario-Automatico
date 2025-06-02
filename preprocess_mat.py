@@ -1,69 +1,88 @@
 import pandas as pd
-import pdfplumber
+import re
 import json
-import unicodedata
+import os
 
-# ========== AUX ==========#
-def limpiar_texto(texto):
-    """Elimina tildes y caracteres especiales, y normaliza el texto"""
-    if pd.isnull(texto):
-        return "-"
-    texto = unicodedata.normalize('NFD', str(texto))
-    texto = texto.encode('ascii', 'ignore').decode('utf-8')
-    return texto.strip().upper()
+def procesar_excel_a_json(archivo_excel):
+    df = pd.read_excel(archivo_excel, header=None, skiprows=7)
+    materias_dict = {}
+    anio_actual = None
+    materia_actual = None
+    clave_actual = None
+    for idx, fila in enumerate(df.itertuples(index=False), 1):
+        celdas = []
+        for x in fila:
+            if pd.isna(x) or x is None or str(x).strip() in ["", "nan"]:
+                celdas.append(None)
+            else:
+                celdas.append(str(x).strip())
+        celdas += [None] * (11 - len(celdas))
+        a, b, c, d, e, f, g, h, i, j, k = celdas[:11]
+        if a and "AÑO" in a:
+            anio_actual = a
+            continue
+        
+        if a and a.startswith("MATERIA"):
+            continue
 
-def convertir_hora(x):
-    """Convierte número tipo 900 o 1130 en formato HH:MM"""
-    try:
-        x_float = float(x)
-        horas = int(x_float // 100)
-        minutos = int(x_float % 100)
-        return f"{horas:02d}:{minutos:02d}"
-    except:
-        return '-'
+        if a and a != "nan":
+            materia_actual = a
+            clave_actual = materia_actual.replace(" - ", "-").upper()
+            
+            if clave_actual not in materias_dict:
+                materias_dict[clave_actual] = {
+                    "docente": None,
+                    "email": "-",
+                    "horarios": []
+                }
 
-tabla = pd.ExcelFile('Examples\[2025] ICOM Horarios 1er cuatrimestre.xlsx')
+        if materia_actual and d and d != "nan":
+            comision = "C1"
+            if c:
+                match = re.search(r'C\d+', c)
+                if match:
+                    comision = match.group(0)
+            tipo_clase = "CLASE"
+            if c:
+                c_lower = c.lower()
+                if "teór" in c_lower or "teor" in c_lower or "teoria" in c_lower:
+                    tipo_clase = "TEORIA"
+                elif "práct" in c_lower or "pract" in c_lower or "prac" in c_lower:
+                    tipo_clase = "PRACTICA"
+                elif "teor/pract" in c_lower or "teórico/práctico" in c_lower:
+                    tipo_clase = "TEORICO/PRACTICO"
+            inicio, fin = None, None
+            if g:
+                if " a " in g:
+                    horario_parts = g.split(" a ")
+                elif " - " in g:
+                    horario_parts = g.split(" - ")
+                else:
+                    horario_parts = [g]
+                if len(horario_parts) == 2:
+                    inicio = horario_parts[0].strip()
+                    fin = horario_parts[1].strip()
+                elif len(horario_parts) == 1:
+                    inicio = fin = horario_parts[0].strip()
+            horario_data = {
+                "tipo": tipo_clase,
+                "comision": comision,
+                "dia": d.upper(),
+                "inicio": inicio,
+                "fin": fin,
+                "aula": f if f else None,
+                "lugar": e if e else None
+            }
+            materias_dict[clave_actual]["horarios"].append(horario_data)
+            if i and i != "nan" and not materias_dict[clave_actual]["docente"]:
+                docente = re.split(r'[/,]', i)[0].strip().upper()
+                materias_dict[clave_actual]["docente"] = docente
+    
+    return json.dumps(materias_dict, indent=2, ensure_ascii=False)
 
-# ========== Horarios ==========#
-df = pd.read_excel(tabla, sheet_name='horarios', skiprows=7)
-
-cols = [limpiar_texto(c) for c in df.columns]
-df.columns = cols
-
-
-df = df[~df['CODIGO'].isin(['CODIGO', '-', None]) & ~df['MATERIA'].isin(['MATERIA', '-', None])]
-
-for col in df.select_dtypes(include=['object']):
-    df[col] = df[col].map(limpiar_texto)
-
-cols_nec = ['CODIGO', 'MATERIA', 'TEORIA  /  PRACTICA', 'COM', 'DIA', 'DESDE', 'HASTA', 'DOCENTE', 'EMAIL', 'LUGAR', 'AULA']
-df = df[cols_nec]
-
-df['DESDE'] = df['DESDE'].apply(convertir_hora)
-df['HASTA'] = df['HASTA'].apply(convertir_hora)
-
-materias = {}
-for _, r in df.iterrows():
-    key = f"{r['CODIGO']}-{r['MATERIA']}"
-
-    if r['MATERIA'] in ['---', '-', ''] or any(x in r['MATERIA'] for x in ['ANO', 'AÑO']):
-        continue
-
-    horario = {
-        'tipo': r['TEORIA  /  PRACTICA'] or 'SIN ESPECIFICAR',
-        'comision': r['COM'],
-        'dia': r['DIA'],
-        'inicio': r['DESDE'],
-        'fin': r['HASTA'],
-        'aula': r['AULA'],
-        'lugar': r['LUGAR'],
-    }
-    docente = r['DOCENTE'] if r['DOCENTE'] not in ['', '-', 'NAN'] else 'SIN ASIGNAR'
-    email = r['EMAIL'] if '@' in r['EMAIL'] else '-'
-    if key not in materias:
-        materias[key] = {'docente': docente, 'email': email, 'horarios': [horario]}
-    else:
-        materias[key]['horarios'].append(horario)
-
-with open('Outputs\materias.json', 'w', encoding='utf-8') as f:
-    json.dump(materias, f, indent=4, ensure_ascii=False)
+for entry in os.scandir('Inputs'):  
+    if entry.is_file():
+        json_str = procesar_excel_a_json(entry.path)
+        materias = json.loads(json_str)
+        with open(f'Outputs\{entry.path.split('\\')[1]}.json', 'w', encoding='utf-8') as f:
+            json.dump(materias, f, indent=2, ensure_ascii=False)

@@ -1,0 +1,452 @@
+{
+  "B5579-MATEMÁTICA I": {
+    "docente": "TRINIDAD QUIJANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "20:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5578-FÍSICA I A: MATERIA": {
+    "docente": "SILVA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "20:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "20:00",
+        "fin": "22:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5577-TALLER DE PRACTICA DOCENTE EN FÍSICA I": {
+    "docente": "GRAZIOSI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5580-INTRODUCCIÓN A LA QUÍMICA": {
+    "docente": "RAVIOLO ANDRÉS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5596-FISICA IIA: INTERACCIONES": {
+    "docente": "ALVAREZ MARCELO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "18:00",
+        "fin": "21:00",
+        "aula": "LAB FISICA",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 187"
+      }
+    ]
+  },
+  "B5597-MATEMATICA III": {
+    "docente": "MOLINA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "14:00",
+        "fin": "17:00",
+        "aula": "TIC´S 2",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "14:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5551-PSICOLOGIA DEL APRENDIZAJE": {
+    "docente": "QUEVEDO MÓNICA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5589/B5322-TALLER DE PRÁCTICA DOCENTE EN FISICA II/TALLER DE PRACTICA DOCENTE EN LAS CIENCIAS EXPERIMENTALES II FÍSICA": {
+    "docente": "GRAZIOSI CAROLA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "12:00",
+        "fin": "16:00",
+        "aula": "LAB FISICA",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5598-ALGEBRA LINEAL": {
+    "docente": "REY RICARDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 3",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "B202-A/PECERA",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5323/B5661 -TALLER DE PRÁCTICA DOCENTE III (FÍSICA)": {
+    "docente": "SILVA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "14:00",
+        "fin": "17:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5145-DIDÁCTICA GENERAL": {
+    "docente": "FOURES CECILIA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5146-HISTORIA SOCIAL DE LA POLÍTICA EDUCATIVA": {
+    "docente": "FOURES CECILIA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5666/B5332-FISICA IIIA: ELECTRICIDAD... / FÍSICA IIIA": {
+    "docente": "TORRES",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "TIC´S 2",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5294 / B5660-EPISTEMOLOGÍA E HISTORIA DE LA FÍSICA": {
+    "docente": "VACCARI ANDRÉS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5667/B5331-FISICA IIIB: TERMODINAMICA / FÍSICA IIIB": {
+    "docente": "SILVA DANTE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "20:00",
+        "fin": "22:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "L0005-INGLÉS COMPRENSIÓN LECTORA II": {
+    "docente": "MÓNICA DELÍA LORENZO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5150- PRÁCTICA DE LA ENSEÑANZA": {
+    "docente": "CUTSAIMANIS ANALÍA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": "TIC´S 2",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "20:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5329-FÍSICA IVA": {
+    "docente": "LAGUNA FABIANA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5324-METODOLOGÍA DE LA INVESTIGACIÓN EDUCATIVA": {
+    "docente": "SOLEDAD FERNANDEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 187"
+      }
+    ]
+  },
+  "B5301-DIDÁCTICA DE LA FÍSICA II": {
+    "docente": "PARIETTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5285- FÍSICA MODERNA A": {
+    "docente": "GOIJMAN DAFNE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "OF COORDINACION FISICA",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "OF COORDINACION FISICA",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  }
+}

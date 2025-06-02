@@ -1,0 +1,916 @@
+{
+  "B5155-ENTRENAMIENTO CORPORAL I COMISIÓN A": {
+    "docente": "MONICA DREIDEMIE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:30",
+        "fin": "13:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "12:00",
+        "fin": "14:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:30",
+        "fin": "13:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "12:00",
+        "fin": "14:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5155-ENTRENAMIENTO CORPORAL I COMISIÓN B": {
+    "docente": "VENEZIALE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5152-ACTUACIÓN I COMISIÓN A": {
+    "docente": "CARAPEZZA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "9:00",
+        "fin": "13:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "12:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "9:00",
+        "fin": "13:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "12:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5152-ACTUACIÓN I COMISIÓN B": {
+    "docente": "SORIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "22:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "22:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "22:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "22:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5903-PSICOLOGÍA Y DINÁMICA DE GRUPOS I": {
+    "docente": "A. NUDLER",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "AULA 6",
+        "lugar": "Esc. 187"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "22:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "AULA 6",
+        "lugar": "Esc. 187"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "22:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5156-RÍTMICA Y LENGUAJE MUSICAL I COMISION B": {
+    "docente": "PAZ JACQUIER",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5902-EDUCACIÓN DE LA VOZ I COMISIÓN A": {
+    "docente": "V. GIRAUDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "9:30",
+        "fin": "12:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "9:30",
+        "fin": "12:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5902-EDUCACIÓN DE LA VOZ I COMISIÓN B": {
+    "docente": "V. GIRAUDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "AULA 2",
+        "lugar": "Esc.16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "AULA 2",
+        "lugar": "Esc.16"
+      }
+    ]
+  },
+  "T0002-INTRODUCCIÓN A LA LECTURA Y ESCRITURA ACADÉMICA COM 1 (SÓLO PARA TEATRO Y ARTE DRAMÁTICO)": {
+    "docente": "ANTISTA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5164-ENTRENAMIENTO CORPORAL II": {
+    "docente": "TEALDI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19.30",
+        "fin": "22.30",
+        "aula": "SUM",
+        "lugar": "Esc.16"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19.30",
+        "fin": "22.30",
+        "aula": "SUM",
+        "lugar": "Esc.16"
+      }
+    ]
+  },
+  "B5161-ACTUACIÓN II": {
+    "docente": "J. DE PAZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "22:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "22:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "22:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "22:30",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5165-RÍTMICA Y LENGUAJE MUSICAL II": {
+    "docente": "JACQUIER",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "10:00",
+        "fin": "21:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "10:00",
+        "fin": "21:00",
+        "aula": "SUM",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5908-EDUCACIÓN DE LA VOZ II. A": {
+    "docente": "MONTELLO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "B5905-HISTORIA DEL TEATRO II": {
+    "docente": "N.ACCOSSANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "22:00",
+        "fin": "23:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "22:00",
+        "fin": "23:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5907-ANÁLISIS DEL HECHO TEATRAL": {
+    "docente": "A. SMART",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "16:30",
+        "fin": "18:30",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "16:30",
+        "fin": "18:30",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "16:30",
+        "fin": "18:30",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "16:30",
+        "fin": "18:30",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5172-ENTRENAMIENTO CORPORAL III": {
+    "docente": "M. DREIDEMIE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "B5169-ACTUACIÓN III": {
+    "docente": "ALONSO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "09:00",
+        "fin": "12:30",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "12:30",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "09:00",
+        "fin": "12:30",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "12:30",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "B5916-EDUCACION DE LA VOZ III": {
+    "docente": "F. MONTELLO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "B5915-DRAMATURGIA": {
+    "docente": "C. SORÍN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "SÁBADO",
+        "inicio": "10:00",
+        "fin": "14:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "SÁBADO",
+        "inicio": "10:00",
+        "fin": "14:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5913-HISTORIA DEL TEATRO IV": {
+    "docente": "M. LORENZATTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5919-METODOLOGÍA DE INVESTIGACIÓN TEATRAL": {
+    "docente": "A. SMART",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5179-ACTUACIÓN IV": {
+    "docente": "M. DREIDEMIE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "18:00",
+        "fin": "21:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "B5952-DIRECCIÓN Y PUESTA EN ESCENA I": {
+    "docente": "JUAREZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "16:00",
+        "fin": "19.00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "B0119-OPTATIVA I: PEDAGOGÍA MARCIAL Y SOMÁTICA DEL MOVIMIENTO": {
+    "docente": "PRIMOST",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "B5954-LABORATORIO ESCÉNICO I": {
+    "docente": "L.VIZCAINO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "16:00",
+        "fin": "19.00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "B5950-ESCENOTECNIA I": {
+    "docente": "MICHAY FERNANDEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": null,
+        "lugar": "Palacios y Anasagasti"
+      }
+    ]
+  },
+  "L0003-INGLES INTEGRAL II": {
+    "docente": "GONZALEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "10:00",
+        "fin": "12:00",
+        "aula": null,
+        "lugar": "Virtual"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "10:00",
+        "fin": "12:00",
+        "aula": null,
+        "lugar": "Virtual"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "PROFESORADO EN TEATRO": {
+    "docente": null,
+    "email": "-",
+    "horarios": []
+  },
+  "B5912 TALLER DE PRÁCTICA DOCENTE II": {
+    "docente": "S.VINTROB",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B510A-PSICOLOGÍA": {
+    "docente": "A. NUDLER",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "18:30",
+        "fin": "21:30",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      }
+    ]
+  },
+  "B5145 DIDÁCTICA GENERAL": {
+    "docente": "C.FOURÉS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5924-DIDÁCTICA DEL TEATRO Y PRÁCTICA DE LA ENSEÑANZA I": {
+    "docente": "M. ALVAREZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "PECERA",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5146-HISTORIA SOCIAL DE LA POLÍTICA EDUCATIVA": {
+    "docente": "C. FOURÉS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5921-ANIMACIÓN SOCIOCULTURAL I": {
+    "docente": "L. CAÑUQUEO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "PB",
+        "lugar": "CHUBUT"
+      }
+    ]
+  }
+}

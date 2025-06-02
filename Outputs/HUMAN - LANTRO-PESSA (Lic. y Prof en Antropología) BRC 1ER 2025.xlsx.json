@@ -1,0 +1,628 @@
+{
+  "B5038-FUNDAMENTOS DE EPISTEMOLOGÍA": {
+    "docente": "REISING",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "19:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "19:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5399 -TALLER DE LECTURA Y ESCRITURA ACADÉMICA I": {
+    "docente": "BIRGIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "16:00",
+        "fin": "18:00",
+        "aula": "4 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "16:00",
+        "fin": "18:00",
+        "aula": "4 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5100-FUNDAMENTOS DE ANTROPOLOGÍA": {
+    "docente": "MARÍA EMILIA SABATELLA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5102-HISTORIA SOCIAL GENERAL": {
+    "docente": "DELRIO WALTER",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "ESC. 266"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B5545-HISTORIA LATINOAMERICANA Y ARGENTINA": {
+    "docente": "PEREZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17.00",
+        "fin": "21:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17.00",
+        "fin": "21:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5467-TALLER DE LECTURA Y ESCRITURA ACADÉMICA II": {
+    "docente": "EISNER",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "TIC´S 2",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "TIC´S 2",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5008-FUNDAMENTOS DE ECONOMÍA POLÍTICA 2016/2023": {
+    "docente": "LANZA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 2",
+        "lugar": "ESC. 266"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 2",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B5020-HISTORIA DE LA TEORÍA ANTROPOLÓGICA": {
+    "docente": "STELLA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 266"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B5560-METODOLOGIA DE LA INVESTIGACION CON ENFOQUE CUALITATIVO": {
+    "docente": "GARCÍA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5019-FUNDAMENTOS DE ARQUEOLOGÍA": {
+    "docente": "BIANCHI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 3",
+        "lugar": "ESC. 266"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 3",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B5042-TALLER DE PRODUCCIÓN DE MATERIALES ORIGINALES": {
+    "docente": "GUIÑAZÚ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "PECERA",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "PECERA",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5021-PROBLEMAS CLÁSICOS DE LA ANTROPOLOGÍA": {
+    "docente": "RAMOS ANA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 6",
+        "lugar": "ESC. 266"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 6",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B5024-ETNOGRAFÍA DE GRUPOS": {
+    "docente": "ABDUCA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 6",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "L0005-INGLES COMPRENSION LECTORA II": {
+    "docente": "ACCOSSANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5027-TALLER DE TESIS": {
+    "docente": "MUZZOPAPPA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B4974-SEMINARIO OPTATIVO DE FORMACIÓN ESPECÍFICA I: PATRIMONIALIZACIÓN Y MODELOS DE GESTIÓN": {
+    "docente": "BIANCHI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 D",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 D",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5026-PROBLEMAS CONTEMPORÁNEOS DE LA ANTROPOLOGÍA": {
+    "docente": "RAMOS ANA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 6",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B5118-INGLES IV": {
+    "docente": "MARIELA ACCOSSANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5202 – ANTROPOLOGÍA ECONÓMICA": {
+    "docente": "ABDUCA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B5035-ANTROPOLOGÍA DE LA MEMORIA": {
+    "docente": "RAMOS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": "4 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": "4 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "PROFESORADO EN EDUCACION SECUNDARIA Y SUPERIOR EN ANTROPOLOGIA": {
+    "docente": null,
+    "email": "-",
+    "horarios": []
+  },
+  "B5542-MAPUZUNGUN": {
+    "docente": "LORENA CAÑUQUEO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 266"
+      }
+    ]
+  },
+  "B5551-PSICOLOGIA DEL APRENDIZAJE": {
+    "docente": "QUEVEDO MÓNICA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "20:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5145-DIDÁCTICA GENERAL": {
+    "docente": "CECILIA FOURES",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B4991/B5557-EDUCACIÓN Y DISCAPACIDAD": {
+    "docente": "FERNANDEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "19:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  }
+}

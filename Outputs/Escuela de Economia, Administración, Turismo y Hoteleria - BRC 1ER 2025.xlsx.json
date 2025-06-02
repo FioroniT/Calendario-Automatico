@@ -1,0 +1,2420 @@
+{
+  "T0002-ILEA (INTROD A LA LEC Y ESCRIT ACADÉMICA)": {
+    "docente": "ZAMBIANCHI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "V1019-CONTABILIDAD I": {
+    "docente": "DIAZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B202-A y B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "SUM",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1019-CONTABILIDAD I (RECURSADA)": {
+    "docente": null,
+    "email": "-",
+    "horarios": []
+  },
+  "V1017-ADMINISTRACION I": {
+    "docente": "QUIROGA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "9:00",
+        "fin": "11:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 1",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "V1018-MATEMATICA I (RECURSADA)": {
+    "docente": null,
+    "email": "-",
+    "horarios": []
+  },
+  "V1037-CONTABILIDAD II": {
+    "docente": "OLVAR",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1020-METODOLOGÍA DE LAS CIENCIAS SOCIALES": {
+    "docente": "CAPUANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B202-A y B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 3",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B202-A y B202-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "V1022-ECONOMÍA I": {
+    "docente": "ALVARADO CONTIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1023-MATEMÁTICA II": {
+    "docente": "QUIJANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "18:00",
+        "fin": "21:00",
+        "aula": "4 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "16:00",
+        "fin": "19:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1029-ADMINISTRACION III": {
+    "docente": "CAMANI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 8",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 8",
+        "lugar": "ESC. 187"
+      }
+    ]
+  },
+  "V1410-TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN APLICADAS A LA GESTIÓN": {
+    "docente": "MIGUEL MARIGUIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "2HS",
+        "fin": "2HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "B203 (TIC´S)",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5405-CALCULO FINANCIERO": {
+    "docente": "LOPEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1414-TALLER DE ADMINISTRACION DE LA COMERCIALIZACION": {
+    "docente": "SAVARESE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "V1415-COSTOS Y GESTIÓN": {
+    "docente": "AGUILAR P.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "2HS",
+        "fin": "2HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "V1034-ECONOMIA III": {
+    "docente": "MALVICINO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1416-DERECHO PRIVADO 2022": {
+    "docente": "BENITEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 3",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 1",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "L0004-INGLES COMPRENSIÓN LECTORA I": {
+    "docente": "ACCOSANO M",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B102-A",
+        "lugar": "Anasagasti 2"
+      }
+    ]
+  },
+  "B5445-COMUNICACION ORGANIZACIONAL (OPTATIVA)": {
+    "docente": "PRETEL",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "2HS",
+        "fin": "2HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5440-RESOLUCIÓN ALTERNATIVA DE CONFLICTOS (OPTATIVA)": {
+    "docente": "PERALTA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "2HS",
+        "fin": "2HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "2HS",
+        "fin": "2HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "V1417-ESTADISTICA": {
+    "docente": "MAGGIORE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "B5386-RESPONSABILIDAD SOCIAL EMPRESARIA (OPTATIVA)": {
+    "docente": "ALONSO F.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "B5408-INFORMACIÓN GERENCIAL 2011/2022": {
+    "docente": "HERNANDEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 3",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "V1420/B5436/V1043-TALLER DE ACTUACIÓN PROFESIONAL/PRÁCTICA PROFESIONAL (OPTATIVA)": {
+    "docente": null,
+    "email": "-",
+    "horarios": []
+  },
+  "B5096-ADMINISTRACIÓN DE PEQUEÑOS NEGOCIOS (OPTATIVA) 2011/2022": {
+    "docente": "GOMIS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "asincronico",
+        "fin": "asincronico",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "asincronico",
+        "fin": "asincronico",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5386- RESPONSABILIDAD SOCIAL EMPRESARIA (OPTATIVA) 2011/2022": {
+    "docente": "ALONSO F.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "L0005/VR327/B5118-INGLES COMPRENSION LECTORA II/INGLES III/INGLES IV 2011/2022)": {
+    "docente": "LORENZO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B4982-ECONOMIA DE LA ENERGIA (OPTATIVA)": {
+    "docente": "KOZULJ R",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "16:00",
+        "fin": "18:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "16:00",
+        "fin": "18:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "V1419-TALLER DE FORMULACION, GESTION Y EVALUACION DE PROYECTOS (2022)": {
+    "docente": "LOPEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "2HS",
+        "fin": "2HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "V1424/B5368-TEORIA DE LA DECISION/TOMA DE DECISIONES": {
+    "docente": "TOTONELLI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"C\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5437-COSTOS PARA LA GESTION EMPRESARIA": {
+    "docente": "AGUILAR",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5480-PRINCIPIOS DE ECONOMIA": {
+    "docente": "DONDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5411-CONTABILIDAD BASICA": {
+    "docente": "VANESA CORDOBA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 2",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 2",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1027-ESTADISTICA I": {
+    "docente": "ARISTIMUÑO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "B201 TIC´S",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "B201 TIC´S",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5435-MATEMÁTICA II": {
+    "docente": "VENTURA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:30",
+        "fin": "21:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5481-MACROECONOMÍA I": {
+    "docente": "MALVICINO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5482-METODOLOGÍA Y EPISTEMOLOGÍA DE LAS CIENCIAS SOCIALES": {
+    "docente": "CAPUANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B202-A y B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 3",
+        "lugar": "ESC. 16"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B202-A y B202-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "L0001/VR305-INGLES COMPRENSIÓN LECTORA/INGLES I": {
+    "docente": "ACCOSSANO M.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B102-A",
+        "lugar": "Anasagasti 2"
+      }
+    ]
+  },
+  "B5487-ECONOMIA MATEMATICA": {
+    "docente": "ATTAGUILE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5424-HISTORIA DEL PENSAMIENTO ECONOMICO": {
+    "docente": "ARISTIMUÑO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"C\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5488-HISTORIA ECONOMICA ARGENTINA": {
+    "docente": "CIVITARESI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "2\"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5417-ORGANIZACION INDUSTRIAL": {
+    "docente": "ALVARADO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1068-ECONOMIA INTERNACIONAL": {
+    "docente": "NIEMBRO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "2 \"C\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B4982-ECONOMIA DE LA ENERGIA (OPTATIVA PLAN 2011)": {
+    "docente": "KOZULJ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5430/B5494-TRABAJO FINAL LICENCIATURA": {
+    "docente": "CAPUANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "TIC´S 2",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "A DEFINIR",
+        "inicio": "A DEFINIR",
+        "fin": "A DEFINIR",
+        "aula": "A DEFINIR",
+        "lugar": "A DEFINIR"
+      }
+    ]
+  },
+  "B5416/B5493-DINERO, CREDITO Y BANCOS": {
+    "docente": "ATTAGUILE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5447-CIENCIA, ETICA E INTERVENCION SOCIOPRODUCTIVA Y AMBIENTAL": {
+    "docente": "CONTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6050-GEOGRAFÍA TURÍSTICA": {
+    "docente": "CESETTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "AULA 2 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6051-INTRODUCCION A LA HOSPITALIDAD": {
+    "docente": "MARRAPODI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "09:00",
+        "fin": "12:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "12:00",
+        "fin": "13:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5043-INTRODUCCION AL TURISMO": {
+    "docente": "VILLA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "2HS",
+        "fin": "2HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "ASINCRONICO"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6052-TIC'S- TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN": {
+    "docente": "MIGUEL MARIGUIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B203 TIC´S",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5066-RECEPCIÓN Y CONSERJERÍA": {
+    "docente": "MARRAPODI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "9:00",
+        "fin": "12:00",
+        "aula": "B203",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5087-CONTABILIDAD HOTELERA": {
+    "docente": "OLVAR",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "4 \"C\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5057-PATRIMONIO TURISTICO ARGENTINO": {
+    "docente": "VEJSBJERG",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6056-LEGISLACIÓN TURÍSTICA Y HOTELERA": {
+    "docente": "BENITEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "L0003-INGLÉS INTEGRAL II": {
+    "docente": "GONZALEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5071-COMPRAS Y ALMACEN": {
+    "docente": "NUÑEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6061-DERECHO DEL TURISMO": {
+    "docente": "BENITEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5086-COSTOS HOTELEROS": {
+    "docente": "OLVAR",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"C\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "2HS",
+        "fin": "2HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6060-ECONOMIA": {
+    "docente": "DONDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B6063/B5360-PRACTICA PRE PROFESIONAL / PASANTIA I": {
+    "docente": "LUZZARDI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6072/B5077-PRACTICA PRE PROFESIONAL 2 / PASANTIA II": {
+    "docente": "LUZZARDI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6062/B5372-PORTUGUES TECNICO I": {
+    "docente": null,
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B6055-CONTABILIDAD": {
+    "docente": "CORDOBA V.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 B",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 B",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5085-PLAN DE NEGOCIOS": {
+    "docente": "CAMANI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 10",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 10",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 10",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 10",
+        "lugar": "ESC. 187"
+      }
+    ]
+  },
+  "B6068-ORGANIZACION DE EVENTOS": {
+    "docente": "BIANCHI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "B5010-RUTAS ALIMENTARIAS DE ARGENTINA Y LATINOAMERICA (OPT)": {
+    "docente": "NUÑEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5375-PORTUGUES III (OPT)": {
+    "docente": "RODRIGUEZ K.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5092-ADMINISTRACION DE PEQUEÑOS ESTABLECIMIENTOS (OPT)": {
+    "docente": "GOMIS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "4HS",
+        "fin": "4HS",
+        "aula": "ASINCRONICO",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5075-RELACIONES PUBLICAS, PROTOCOLO Y CEREMONIAL": {
+    "docente": "BONANSEA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "AULA 5",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "B6067-GESTION DE ESTABLECIMIENTOS DE ALOJAMIENTO": {
+    "docente": "FERNANDEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "B203 (TIC´S)",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6066/B5070-HOTELERIA Y RESTAURACION/GASTRONOMIA": {
+    "docente": "NUÑEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5521-GEOGRAFÍA TURÍSTICA": {
+    "docente": "CESETTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "09:00",
+        "fin": "11:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "11:00",
+        "fin": "13:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "4 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "V1024-SOCIOLOGIA": {
+    "docente": "NATAPOF",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "4 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5502/B5372-PORTUGUÉS TÉCNICO 1": {
+    "docente": "HORA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5503-ECONOMÍA": {
+    "docente": "DONDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5528-LEGISLACIÓN TURÍSTICA Y HOTELERA": {
+    "docente": "BENITEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5527-ADMINISTRACION GENERAL": {
+    "docente": "TOTONELLI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "2 \"B\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5509-MARKETING TURISTICO": {
+    "docente": "LUZZARDI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5514-DERECHO DEL TURISMO": {
+    "docente": "BENITEZ D.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "4 \"B\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5510-GOBIERNO, ORGANISMOS Y POLITICA TURISTICA": {
+    "docente": "DI NARDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 2",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "B5524-CONTABILIDAD": {
+    "docente": "CORDOBA V.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 B",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "19:00",
+        "aula": "2 B",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5375-PORTUGUES III": {
+    "docente": "RODRIGUEZ K.",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5345/B5499-PASANTÍA I 2011 /  PRÁCTICA PRE PROFESIONAL I 2022": {
+    "docente": "DI NARDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "A DEFINIR",
+        "inicio": "A DEFINIR",
+        "fin": "A DEFINIR",
+        "aula": "A DEFINIR",
+        "lugar": "A DEFINIR"
+      }
+    ]
+  },
+  "B5508-TALLER DE INTEGRACIÓN 1": {
+    "docente": "BONINI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B203 TIC´S",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVS",
+        "inicio": "ASINCRONICO",
+        "fin": "ASINCRONICO",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "DEU000-OPTATIVA ECONOMÍA SOCIAL, SOLIDARIA Y ...": {
+    "docente": "MARÍA DULCE HENRÍQUEZ ACOSTA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "SÁBADO",
+        "inicio": "09",
+        "fin": "13",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5348/B5516-PROMOCION TURISTICA/PROMOCION Y GESTION DE DESTINOS TURISTICOS": {
+    "docente": "GRASSINI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 16"
+      }
+    ]
+  },
+  "B5350-PLANEAMIENTO TURISTICO": {
+    "docente": "CESETTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "4 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5351/B5519/B5499-PASANTÍA II 2011 /  PRÁCTICA PRE PROFESIONAL II 2022 / PRACTICA PRE PROFESIONAL I": {
+    "docente": "DI NARDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "A DEFINIR",
+        "inicio": "A DEFINIR",
+        "fin": "A DEFINIR",
+        "aula": "A DEFINIR",
+        "lugar": "A DEFINIR"
+      }
+    ]
+  },
+  "B5118-INGLES 4": {
+    "docente": "GONZALEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIÉRCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5498-TALLER DE INTEGRACION II": {
+    "docente": "DI NARDO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "2 \"C\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  }
+}

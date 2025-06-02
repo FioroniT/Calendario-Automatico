@@ -1,0 +1,488 @@
+{
+  "LENGUAJE VISUAL I": {
+    "docente": "MATEO LOPEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ONLINE",
+        "lugar": "Asincrónica"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "San Martín 2650",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "TALLER DE DISEÑO AUDIOVISUAL I": {
+    "docente": "HERNAN ANDRADE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martín 2650",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martín 2650",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "DIBUJO": {
+    "docente": "SANTIAGO GRASSO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ONLINE",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "San Martín 2650",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "GUIÓN I": {
+    "docente": "NURIA VILALTA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ONLINE",
+        "lugar": "Miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "San Martín 2650",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "INTRODUCCIÓN A LA LECTURA \nY ESCRITURA ACADÉMICA": {
+    "docente": "MARIANA DE LA PENNA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ONLINE",
+        "lugar": "Martes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "San Martín 2650",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "HISTORIA GENERAL DEL ARTE": {
+    "docente": "MA. GABRIELA \nHERNÁNDEZ CELIZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ONLINE",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ASIGNATURA": {
+    "docente": "PROFESOR",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC \n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ \nPRAC \nCOMISIÓN",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/ \nPRAC \nCOMISIÓN",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      }
+    ]
+  },
+  "LENGUAJE AUDIOVISUAL": {
+    "docente": "AILÉN SPERA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martin 2550",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "TALLER DE DISEÑO AUDIOVISUAL II": {
+    "docente": "JORGE MEREB",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martín 2650",
+        "lugar": "Miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martín 2650",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "INTRODUCCIÓN AL MONTAJE": {
+    "docente": "JUAN LEÓN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Lab. \nInformática",
+        "fin": "Lab. \nInformática",
+        "aula": "San Martín 2650",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "2",
+        "inicio": "Lab. \nInformática",
+        "fin": "Lab. \nInformática",
+        "aula": "San Martín 2650",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "HISTORIA ANALÍTICA DE LOS MEDIOS AUDIOVISUALES I": {
+    "docente": "JUAN LEÓN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "San Martín 2650",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "FOTOGRAFÍA Y CÁMARA II": {
+    "docente": "MARIA DEZA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2 / \nEstudio",
+        "fin": "2 / \nEstudio",
+        "aula": "San Martín 2650",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "SONIDO II": {
+    "docente": "NORBERTO LIPCHAK",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2 / \nLab. \nInformatica",
+        "fin": "2 / \nLab. \nInformatica",
+        "aula": "San Martín 2650",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "TALLER DE DISEÑO AUDIOVISUAL III": {
+    "docente": "JUAN SALTHU",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "San Martín 2650",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "LENGUAJE VISUAL II \n- SE CURSA EN EL 1ER Y 2DO CUAT.": {
+    "docente": "PETTINAROLI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "San Martín 2650",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ETICA Y LEGISLACIÓN PROFESIONAL": {
+    "docente": "ROMINA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ONLINE",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "TECNOLOGÍA AUDIOVISUAL": {
+    "docente": "ALEJANDRO AMOROSO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ONLINE",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "OPTATIVA I: ELECTRICIDAD Y RECURSOS DE ILUMINACIÓN": {
+    "docente": "GUSTAVO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "estudio",
+        "fin": "estudio",
+        "aula": "San Martín 2650",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "TRABAJO FINAL DE LICENCIATURA": {
+    "docente": "LUCIANA MORO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "ONLINE/\nAula 5",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "INGLÉS I / INGLÉS INTEGRAL I": {
+    "docente": "CARINA LLOSA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "ONLINE / San Martín 2650",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "DISEÑO GRÁFICO": {
+    "docente": "LUISINA RADELAND",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "8 + Inf",
+        "fin": "8 + Inf",
+        "aula": "San Martín 2650",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "CONTENIDO Y MODELOS DIGITALES": {
+    "docente": "MARISA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "San Martín 2650",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "ANIMACION": {
+    "docente": "SANTIAGO GRASSO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Lab. \nInformática",
+        "fin": "Lab. \nInformática",
+        "aula": "San Martín 2650/\nON LINE",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "TEORÍA Y ESTÉTICA CINEMATOGŔAFICA": {
+    "docente": "AILÉN SPERA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "2025-03-06 00:00:00",
+        "fin": "2025-03-06 00:00:00",
+        "aula": "San Martin 2650",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "PINTURA": {
+    "docente": "AURELIO GARCÍA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "San Martin 2650",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "VIDEO INSTALACION Y TIEMPO REAL": {
+    "docente": "CAROLA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "ONLINE / San Martin 2650",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ARTE Y CODIGO CREATIVO II": {
+    "docente": "CAROLA DREIDEMIE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "1",
+        "inicio": "Informatica",
+        "fin": "Informatica",
+        "aula": "ONLINE / San Martin 2650",
+        "lugar": "Martes"
+      }
+    ]
+  }
+}

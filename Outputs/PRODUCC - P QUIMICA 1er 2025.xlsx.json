@@ -1,0 +1,422 @@
+{
+  "B5579-MATEMÁTICA I": {
+    "docente": "QUIJANO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "20:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5578-FÍSICA I A: MATERIA": {
+    "docente": null,
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "20:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "20:00",
+        "fin": "22:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5590-TALLER DE PRACTICA DOCENTE EN QUIMICA I": {
+    "docente": "BERGER",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5580-INTRODUCCIÓN A LA QUÍMICA": {
+    "docente": "RAVIOLO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "21:00",
+        "fin": "23:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 1",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5708-QUÍMICA INORGÁNICA I": {
+    "docente": "FOUGA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "AULA 3",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "20:00",
+        "fin": "23:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5707-QUIMICA ANALITICA": {
+    "docente": "GUIÑAZÚ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "22:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "AULA 4",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "T0002-INTRODUCCIÓN A LA LECTURA Y ESCRITURA ACADÉMICA": {
+    "docente": "I. SILIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C2",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C2",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5551-PSICOLOGIA DEL APRENDIZAJE": {
+    "docente": "QUEVEDO MÓNICA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5699-TALLER DE PRÁCTICA DOCENTE EN QUIMICA II": {
+    "docente": "CARABELLI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "OF. COORDINACION QUIMICA",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5292/B5718-TALLER DE PRÁCTICA DOCENTE III (PROF. QCA)": {
+    "docente": "ILARRI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5145-DIDÁCTICA GENERAL (2011/2023)": {
+    "docente": "FOURES",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B5556-HISTORIA SOCIAL DE LA POLÍTICA EDUCATIVA": {
+    "docente": "FOURES",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5239/B5710-QUÍMICA ORGÁNICA I": {
+    "docente": "BAGNATO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "AULA 5",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "OF. COORDINACION QUIMICA",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "L0005/VR316-INGLES COMPRENSIÓN LECTORA II / INGLES II": {
+    "docente": "LORENZO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "2 \"A\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  },
+  "B5247/5726-FISICOQUÍMICA II": {
+    "docente": "SERQUIS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 6",
+        "lugar": "ESC. 187"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "AULA 6",
+        "lugar": "ESC. 187"
+      }
+    ]
+  },
+  "B5296/B5689-METODOLOGÍA DE LA INVESTIGACIÓN EDUCATIVA": {
+    "docente": "FERNÁNDEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "AULA 4",
+        "lugar": "ESC. 187"
+      }
+    ]
+  },
+  "B5248/B5723-DIDÁCTICA DE LA QUÍMICA II": {
+    "docente": "FARRÉ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "18:30",
+        "fin": "21:30",
+        "aula": "OF. COORDINACION QUIMICA",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5150/B5724-PRÁCTICA DE LA ENSEÑANZA": {
+    "docente": "FARRÉ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "23:00",
+        "aula": "OF. COORDINACION QUIMICA",
+        "lugar": "TACUARI 150"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "22:00",
+        "fin": "23:00",
+        "aula": "OF. COORDINACION QUIMICA",
+        "lugar": "TACUARI 150"
+      }
+    ]
+  },
+  "B5118-INGLES IV": {
+    "docente": "LORENZO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "13:00",
+        "fin": "15:00",
+        "aula": "2 \"D\"",
+        "lugar": "MITRE 630"
+      }
+    ]
+  }
+}
