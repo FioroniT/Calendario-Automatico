@@ -20,8 +20,10 @@ def index():
 @app.route('/submit', methods=['POST'])
 def submit():
     selected_options = request.form.getlist('materias_check')
+    selected_carrera = request.form.get('carreraElegida')
     print(f"Selected Options: {selected_options}")
     # Process the selected options
+    selected_options.append(selected_carrera)
     return selected_options
 
 if __name__ == '__main__':

@@ -7,6 +7,7 @@ for(let i = 0; i<carreras_source.length; i++){
   button.innerText = carreras_source[i];
   button.addEventListener('click', function() {
     changeCarrera(carreras_source[i]);
+    document.getElementById('carreraElegida').value = carreras_source[i];
     formDiv.innerHTML = '';
     generateMaterias(i);
     showMaterias();
