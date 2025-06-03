@@ -1,0 +1,347 @@
+{
+  "FÍSICA APLICADA": {
+    "docente": "DIEGO GALPERIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "RAZONAMIENTO Y RESOLUCIÓN DE PROBLEMAS": {
+    "docente": "GUIDO CLARO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "INTRODUCCIÓN A LA LECTURA \n Y ESCRITURA ACADÉMICA": {
+    "docente": "MARIANA DE LA \nPENNA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "MATEMÁTICA": {
+    "docente": "GUIDO CLARO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "COM 1\nTEÓRICO",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "COM 2\nTEÓRICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Asincrónico",
+        "lugar": "Lunes\nViernes"
+      }
+    ]
+  },
+  "BOTÁNICA MORFOLÓGICA": {
+    "docente": "JAVIER PUNTIERI\nCECILIA SOBRERO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO COM 1",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO COM 2",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO COM 3",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO COM 4",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "QUÍMICA APLICADA": {
+    "docente": "GASTON DI BONIS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO \nPRÁCTICO COM 3",
+        "inicio": "8 + Lab.",
+        "fin": "8 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO, COM 1",
+        "inicio": "7 + Lab.",
+        "fin": "7 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO COM 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Asincrónico",
+        "lugar": "Lunes\nViernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO, COM 2",
+        "inicio": "7 + Lab.",
+        "fin": "7 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO COM 2",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Asincrónico",
+        "lugar": "Lunes\nViernes"
+      }
+    ]
+  },
+  "INFORMÁTICA": {
+    "docente": "NOELIA VERDÚN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO -PRÁCTICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Virtual",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ASIGNATURA": {
+    "docente": "PROFESOR",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC \n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC \n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR",
+        "lugar": "DÍA"
+      }
+    ]
+  },
+  "SISTEMAS PRODUCTIVOS. ORGÁNICOS": {
+    "docente": "EDUARDO MARTÍNEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO \nPRÁCTICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "CLIMATOLOGÍA Y AGROMETEOROLOGÍA": {
+    "docente": "EMILIO BIANCHI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "ECONOMÍA POLÍTICA": {
+    "docente": "GASTON BLASQUIZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "EDAFOLOGÍA": {
+    "docente": "M. VICTORIA CREMONA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO \nPRÁCTICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "FISIOLOGÍA DE LAS PLANTAS \nSUPERIORES": {
+    "docente": "NAZARENA SPERA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO \nPRÁCTICO",
+        "inicio": "5 + Lab.",
+        "fin": "5 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "AROMATICAS Y MEDICINALES": {
+    "docente": "CECILIA SOBRERO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO \nPRÁCTICO",
+        "inicio": "2 + Lab.",
+        "fin": "2 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "MULTIPLICACIÓN DE ESPECIES": {
+    "docente": "PAOLA PIZZINGRILLI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO \nPRÁCTICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "jueves"
+      }
+    ]
+  },
+  "FRUTICULTURA": {
+    "docente": "EDUARDO MARTÍNEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO \nPRÁCTICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "HORTICULTURA": {
+    "docente": "GABRIELA RODRIGUEZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO \nPRÁCTICO",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  }
+}

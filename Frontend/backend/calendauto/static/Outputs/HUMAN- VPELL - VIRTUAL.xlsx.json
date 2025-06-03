@@ -1,0 +1,17 @@
+{
+  "3° AÑO": {
+    "docente": "-",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "PEÑA, JONATHAN",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "-",
+        "lugar": "-"
+      }
+    ]
+  }
+}

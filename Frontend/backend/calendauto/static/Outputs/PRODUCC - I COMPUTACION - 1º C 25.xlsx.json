@@ -1,0 +1,473 @@
+{
+  "B6000-MATEMATICA I": {
+    "docente": "C. MOLINA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "11:00",
+        "fin": "15:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "15:00",
+        "fin": "19:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C2",
+        "dia": "MARTES",
+        "inicio": "13:00",
+        "fin": "17:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C2",
+        "dia": "LUNES",
+        "inicio": "15:00",
+        "fin": "19:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C3",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C3",
+        "dia": "VIERNES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6001-INTRODUCCIÓN A LA ING. EN COMPUTACIÓN": {
+    "docente": "P. BRITOS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "18:00",
+        "fin": "22:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C2",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C2",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "T0002-INTRODUCCIÓN A LA LECTURA Y ESCRITURA ACADÉMICA": {
+    "docente": "I. SILIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C2",
+        "dia": "MIERCOLES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B202-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C2",
+        "dia": "VIERNES",
+        "inicio": "19:00",
+        "fin": "21:00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C3",
+        "dia": "VIERNES",
+        "inicio": "15:00",
+        "fin": "17:00",
+        "aula": "VIRTUAL",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6006-MATEMATICA II": {
+    "docente": "C. MOLINA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "11:00",
+        "fin": "15:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "PRACTICA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "11:00",
+        "fin": "15:00",
+        "aula": "B101",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6008-PROGRAMACIÓN II": {
+    "docente": "M. VILUGRON",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "B102-A y B102-B",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "18:00",
+        "fin": "21:00",
+        "aula": "B102-A",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6009-ARQUITECTURA DE COMPUTADORAS I": {
+    "docente": "I. NOMDEDEU",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "20:00",
+        "fin": "23:00",
+        "aula": "B102-A y B102-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6011-FÍSICA GENERAL II": {
+    "docente": "ALBORNOZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "09:00",
+        "fin": "13:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6013-BASES DE DATOS": {
+    "docente": "C. TEJERO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "18:00",
+        "fin": "21:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "18:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6014-INTRODUCCIÓN A LOS SISTEMAS DISTRIBUIDOS Y PARALELOS": {
+    "docente": "WALTER AGÜERO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "16:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "16:00",
+        "fin": "17:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6016-LABORATORIO DE SISTEMAS EMBEBIDOS": {
+    "docente": "CASTILLO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "17:00",
+        "fin": "21:00",
+        "aula": "B102-B",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6017-SEGURIDAD AMBIENTAL": {
+    "docente": "RIBERI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "VIERNES",
+        "inicio": "13:00",
+        "fin": "17:00",
+        "aula": "B103",
+        "lugar": "ANASAGASTI 2"
+      }
+    ]
+  },
+  "B6021-INGENIERIA DE SOFTWARE I": {
+    "docente": "BRITOS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "17:30",
+        "fin": "20:30",
+        "aula": "-",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "17:30",
+        "fin": "20:30",
+        "aula": "-",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6022-PROBABILIDAD, ESTADISTICA Y PROCESOS ALEATORIOS": {
+    "docente": "REYNOSO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "19:00",
+        "fin": "22:00",
+        "aula": "B202-A",
+        "lugar": "ANASAGASTI 2"
+      },
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "18:00",
+        "fin": "21:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B6024-ARQUITECTURA DE COMPUTADORAS II": {
+    "docente": "NOMDEDEU",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "20:00",
+        "fin": "23:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "V1275-CIENCIA DE DATOS APLICADA": {
+    "docente": "BRITOS",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "LUNES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "MIERCOLES",
+        "inicio": "17:00",
+        "fin": "20:00",
+        "aula": "0",
+        "lugar": "VIRTUAL"
+      }
+    ]
+  },
+  "B5672-COMUNICACIONES ANALOGICAS Y DIGITALES": {
+    "docente": "COGO JORGE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "MARTES",
+        "inicio": "13:00",
+        "fin": "16:00",
+        "aula": "LAB 106",
+        "lugar": "ANASAGASTI 1"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "JUEVES",
+        "inicio": "13:00",
+        "fin": "16:00",
+        "aula": "LAB 106",
+        "lugar": "ANASAGASTI 1"
+      }
+    ]
+  },
+  "B6038-ECONOMIA Y ORGANIZACION INDUSTRIAL": {
+    "docente": "CONTIN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "TEORIA",
+        "comision": "C1",
+        "dia": "SABADO",
+        "inicio": "08:30",
+        "fin": "12:30",
+        "aula": "-",
+        "lugar": "MITRE 630"
+      }
+    ]
+  }
+}

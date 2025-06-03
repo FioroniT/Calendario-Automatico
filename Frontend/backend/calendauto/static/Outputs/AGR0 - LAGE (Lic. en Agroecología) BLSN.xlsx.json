@@ -1,0 +1,497 @@
+{
+  "ASIGNATURA": {
+    "docente": "PROFESOR",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC\n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC\n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC\n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEOR/PRAC\n COMISION",
+        "inicio": "AULA",
+        "fin": "AULA",
+        "aula": "LUGAR/\nMODALIDAD",
+        "lugar": "DÍA"
+      }
+    ]
+  },
+  "BASES CONCEPTUALES DE LA AGROECOLOGÍA Y  AGRICULTURA  SUSTENTABLE": {
+    "docente": "CHRISTINE DANKLMAIER",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "BOTÁNICA MORFOLÓGICA": {
+    "docente": "JAVIER PUNTIERI\nCECILIA SOBRERO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO, COM 1",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO, COM 2",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO, COM 3",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "HISTORIA AMBIENTAL DE LA AGRICULTURA": {
+    "docente": "JOSE MARIA MENDES",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial (% encuentros virtuales)",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "MATEMÁTICA": {
+    "docente": "NICOLÁS SEOANE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "COM 2.\nTEÓRICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Asincrónico",
+        "lugar": "Viernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "COM 1\nTEÓRICO",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "Presencial",
+        "lugar": "Miércoles\nLunes"
+      }
+    ]
+  },
+  "QUÍMICA APLICADA": {
+    "docente": "NICOLÁS SEOANE",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO, COM 1",
+        "inicio": "7 + Lab",
+        "fin": "7 + Lab",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO COM 1",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Asincrónico",
+        "lugar": "Lunes\nViernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO, COM 2",
+        "inicio": "7 + Lab",
+        "fin": "7 + Lab",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO COM 2",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Asincrónico",
+        "lugar": "Lunes\nViernes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO, COM 4",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "-",
+        "lugar": "Miercoles"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO PRÁCTICO \nCOM 3",
+        "inicio": "8 + Lab.",
+        "fin": "8 + Lab.",
+        "aula": "Presencial/\nSincrónica",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "COM 3\nPRÁCTICO",
+        "inicio": "-",
+        "fin": "-",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "RAZONAMIENTO Y RESOLUCIÓN DE PROBLEMAS": {
+    "docente": "GUIDO CLARO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRÁCTICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "CIENCIAS DEL SUELO": {
+    "docente": "MARTHA RIAT",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "7",
+        "fin": "7",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "PRACTICO",
+        "inicio": "7 + Lab",
+        "fin": "7 + Lab",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "CLIMATOLOGÍA Y AGROMETEOROLOGÍA": {
+    "docente": "EMILIO BIANCHI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO -PRÁCTICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "DESARROLLO RURAL": {
+    "docente": "CLAUDIA COBELO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial (c/% virtual)",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "ECONOMÍA GENERAL Y MERCADOS": {
+    "docente": "GASTON BLASQUIZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial (c/% virtual)",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "FISIOLOGÍA DE LAS PLANTAS SUPERIORES": {
+    "docente": "NAZARENA SPERA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO-PRÁCTICO",
+        "inicio": "5 + Lab.",
+        "fin": "5 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "GENÉTICA Y MEJORAMIENTO": {
+    "docente": "SEBASTIÁN DEBENEDETTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO-PRÁCTICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      }
+    ]
+  },
+  "INFORMÁTICA": {
+    "docente": "NOELIA VERDÚN",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO -PRÁCTICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Virtual",
+        "lugar": "Martes"
+      }
+    ]
+  },
+  "MANEJO ECOLÓGICO DE LA SANIDAD EN LOS CULTIVOS": {
+    "docente": "PAOLA PIZZINGRILLI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO -PRAC",
+        "inicio": "6 + Lab.",
+        "fin": "6 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Jueves"
+      },
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO/PRÁCTICO",
+        "inicio": "6 + Lab.",
+        "fin": "6 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "MICROBIOLOGÍA AGRÍCOLA E INDUSTRIAL": {
+    "docente": "PAOLA PIZZINGRILLI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO -PRÁCTICO",
+        "inicio": "3 + Lab.",
+        "fin": "3 + Lab.",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "TALLERES DE PROYECTOS DIDÁCTICO-PRODUCTIVOS": {
+    "docente": "FEDERICO VERCELLI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO -PRÁCTICO",
+        "inicio": "3",
+        "fin": "3",
+        "aula": "Presencial",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "DASONOMÍA Y MANEJO SUSTENTABLE DEL BOSQUE": {
+    "docente": "MARIANO AMOROSO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO -PRÁCTICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "PLANIFICACIÓN Y GESTIÓN DE LOS RECURSOS NATURALES": {
+    "docente": "FERNANDO SALVARÉ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "Presencial (% encuentros virtuales)",
+        "lugar": "jueves"
+      }
+    ]
+  },
+  "PRODUCCIÓN Y CONSERVACIÓN DE FORRAJE": {
+    "docente": "ANDREA CARDOZO",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "6",
+        "fin": "6",
+        "aula": "Hibrido",
+        "lugar": "Viernes"
+      }
+    ]
+  },
+  "NUTRICIÓN ANIMAL": {
+    "docente": "SEBASTIAN DEBENEDETTI",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "8",
+        "fin": "8",
+        "aula": "Presencial",
+        "lugar": "Miércoles"
+      }
+    ]
+  },
+  "SEMINARIO DE INTEGRACIÓN Y TESINA DE LICENCIATURA": {
+    "docente": "ARROYO ALEJANDRA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "Aula Perito\nMoreno",
+        "fin": "Aula Perito\nMoreno",
+        "aula": "Virtual",
+        "lugar": "Lunes"
+      }
+    ]
+  },
+  "INGLÉS COMPRENSIÓN LECTORA II": {
+    "docente": "CARINA LLOSA",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "2",
+        "fin": "2",
+        "aula": "Híbrida",
+        "lugar": "martes"
+      }
+    ]
+  },
+  "DISEÑOS DE EMPRENDIMIENTOS AGROECOLÓGICOS": {
+    "docente": "GASTÓN BLASQUIZ",
+    "email": "-",
+    "horarios": [
+      {
+        "tipo": "CLASE",
+        "comision": "C1",
+        "dia": "TEÓRICO",
+        "inicio": "5",
+        "fin": "5",
+        "aula": "Presencial",
+        "lugar": "jueves"
+      }
+    ]
+  }
+}

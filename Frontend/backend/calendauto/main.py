@@ -1,14 +1,21 @@
 from flask import Flask, render_template, request
 import json
+from os import listdir
+from os.path import isfile, join
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    fileData = 0;
-    with open('data.json', 'r') as f:
-        fileData = json.load(f)
-        f.close()
-    return render_template('index.html', fileData = fileData)
+    filesData = [f for f in listdir("./static/Outputs/") if isfile(join("./static/Outputs/", f))]
+    fileData = {}
+    j = 0
+    for i in filesData:
+        with open('./static/Outputs/'+i, 'r') as f:
+            fileData[j]= json.load(f)
+            f.close()
+        j=j+1
+
+    return render_template('index.html',  filesData = filesData, fileData = fileData)
 
 @app.route('/submit', methods=['POST'])
 def submit():
