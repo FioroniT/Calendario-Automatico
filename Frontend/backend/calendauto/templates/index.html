@@ -3,7 +3,9 @@
     <title>Horarios a Calendario</title>
     <link rel="icon" type="image/jpg" href="{{ url_for('static',filename='./images/favicon.jpg') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='./css/index.css') }}">
-
+    <script>
+      const materias_source = {{ fileData|tojson }};
+    </script>
   </head>
   <body>
     <table class="table-style"> 

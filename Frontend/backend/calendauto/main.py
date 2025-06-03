@@ -1,10 +1,14 @@
 from flask import Flask, render_template, request
-
+import json
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    fileData = 0;
+    with open('data.json', 'r') as f:
+        fileData = json.load(f)
+        f.close()
+    return render_template('index.html', fileData = fileData)
 
 @app.route('/submit', methods=['POST'])
 def submit():

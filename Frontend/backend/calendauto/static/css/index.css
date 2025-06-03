@@ -2,7 +2,7 @@
   display: flex;
   position: absolute;
   top: 25%;
-  left: 37%;
+  left: 28%;
   align-self: center;
   border: 5px;
 }
@@ -22,7 +22,7 @@
   font-family: "Arial";
   border: 1px;
   cursor: pointer;
-  min-width: 500px;
+  min-width: 600px;
   border-radius: 15px 15px 1px 1px;
 }
 
@@ -41,8 +41,8 @@
   position:absolute;
   display: none;
   justify-self: center;
-  min-width: 500px;
-  max-width: 500px;
+  min-width: 600px;  
+  max-width: 600px;
   z-index: 1;
   border: 1px
 }
@@ -52,8 +52,8 @@
   color: black;
   border: 4px;
   padding: 12px 16px;
-  min-width: 500px;
-  max-width: 500px;
+  min-width: 600px;
+  max-width: 600px;
   align-content: center;
   text-decoration: none;
   font-family: "Arial";
@@ -77,14 +77,14 @@
 .materia-button{
   background-color: #aa1111;
   color: #cccccc;
-  min-width: 500px;
+  min-width: 600px;
   min-height: 100px;
   border: none;
 }
 
 .materia-button:hover{
   background-color: #661111;
-  min-height: 150px;
+  min-height: 120px;
   border: none;
 }
 
