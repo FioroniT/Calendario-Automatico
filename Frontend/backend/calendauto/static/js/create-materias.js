@@ -6,13 +6,16 @@ function generateMaterias(ncarrera) {
     var td = document.createElement('td');
     const button = document.createElement('button');
     button.className = "materia-button";
+    button.type = "button";
 
     if(i == (carreras_obj.carreras[ncarrera].materias.length-1)){
       button.style.borderRadius = "1px 1px 15px 15px";
     }
 
-    const checkBox = document.createElement('button');
+    const checkBox = document.createElement('input');
     checkBox.type = 'checkbox';
+    checkBox.name = 'materias_check';
+    checkBox.value = carreras_obj.carreras[ncarrera].materias[i].nombre;
     
     button.addEventListener('click', function() {
       checkBox.click();
