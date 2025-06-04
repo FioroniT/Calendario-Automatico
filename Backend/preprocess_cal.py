@@ -52,8 +52,6 @@ def parse_date_string(date_str, default_year=2025):
             month_name = match.group(2).lower()
             if month_name in MESES:
                 return [datetime.date(default_year, MESES[month_name], day)]
-    
-    # Intentar parsear como fecha simple
     try:
         return [pd.to_datetime(date_str, dayfirst=True).date()]
     except:
@@ -98,5 +96,5 @@ df['fecha_iso'] = df['fechas'].apply(lambda d: d.strftime('%Y-%m-%d'))
 
 result = df.groupby('fecha_iso')['motivo'].agg(lambda x: ' | '.join(x)).to_dict()
 
-with open(r'Outputs\calendario_academico.json', 'w', encoding='utf-8') as f:
+with open('Outputs\\calendario_academico.json', 'w', encoding='utf-8') as f:
     json.dump(result, f, ensure_ascii=False, indent=2)

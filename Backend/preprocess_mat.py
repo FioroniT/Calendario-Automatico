@@ -84,5 +84,5 @@ for entry in os.scandir('Inputs'):
     if entry.is_file():
         json_str = procesar_excel_a_json(entry.path)
         materias = json.loads(json_str)
-        with open(f'Outputs\{entry.path.split('\\')[1]}.json', 'w', encoding='utf-8') as f:
+        with open(f'Outputs\\tmp\\{entry.path.split('\\')[1]}.json', 'w', encoding='utf-8') as f:
             json.dump(materias, f, indent=2, ensure_ascii=False)
