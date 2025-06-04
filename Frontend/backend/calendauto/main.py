@@ -23,8 +23,26 @@ def submit():
     selected_carrera = request.form.get('carreraElegida')
     print(f"Selected Options: {selected_options}")
     # Process the selected options
+    materias = []
+    comisiones = []
+    i = 0
+    for materia in selected_options:
+        materias.append(materia.split(':')[0])
+        comisiones.append(materia.split(':')[1])
+        i=i+1
+    
+    complete_data = list(zip(materias, comisiones))
+    carreraData = 0
+    links = []
+    with open('./static/links.json', 'r') as f:
+        carreraData = json.load(f);
+        f.close();
+    
+    for data in complete_data:
+        links.append(carreraData.get(selected_carrera, {}).get(data[0], {}).get(data[1]).get("link"))
+
     selected_options.append(selected_carrera)
-    return selected_options
+    return links
 
 if __name__ == '__main__':
     app.run(debug=True)

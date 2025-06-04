@@ -28,7 +28,7 @@ function createMateriasButtons(data) {
       const checkBox = document.createElement('input');
       checkBox.type = 'checkbox';
       checkBox.name = 'materias_check';
-      checkBox.value = x+" : "+arr[j];
+      checkBox.value = x+":"+arr[j];
       
       button.addEventListener('click', function() {
         checkBox.click();
