@@ -1,6 +1,6 @@
 {
   "B5038-FUNDAMENTOS DE EPISTEMOLOGÍA": {
-    "docente": "REISING",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -78,7 +78,7 @@
     ]
   },
   "B5399 -TALLER DE LECTURA Y ESCRITURA ACADÉMICA I": {
-    "docente": "BIRGIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -93,7 +93,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "16:00",
         "fin": "18:00",
         "aula": "4 \"A\"",
@@ -111,7 +111,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "16:00",
         "fin": "18:00",
         "aula": "4 \"A\"",
@@ -120,7 +120,7 @@
     ]
   },
   "B5100-FUNDAMENTOS DE ANTROPOLOGÍA": {
-    "docente": "MARÍA EMILIA SABATELLA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -144,7 +144,7 @@
     ]
   },
   "B5102-HISTORIA SOCIAL GENERAL": {
-    "docente": "DELRIO WALTER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -159,7 +159,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 1",
@@ -177,7 +177,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 1",
@@ -186,7 +186,7 @@
     ]
   },
   "B5545-HISTORIA LATINOAMERICANA Y ARGENTINA": {
-    "docente": "PEREZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -210,13 +210,13 @@
     ]
   },
   "B5467-TALLER DE LECTURA Y ESCRITURA ACADÉMICA II": {
-    "docente": "EISNER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "TIC´S 2",
@@ -225,7 +225,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "TIC´S 2",
@@ -234,7 +234,7 @@
     ]
   },
   "B5008-FUNDAMENTOS DE ECONOMÍA POLÍTICA 2016/2023": {
-    "docente": "LANZA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -258,7 +258,7 @@
     ]
   },
   "B5020-HISTORIA DE LA TEORÍA ANTROPOLÓGICA": {
-    "docente": "STELLA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -282,7 +282,7 @@
     ]
   },
   "B5560-METODOLOGIA DE LA INVESTIGACION CON ENFOQUE CUALITATIVO": {
-    "docente": "GARCÍA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -306,7 +306,7 @@
     ]
   },
   "B5019-FUNDAMENTOS DE ARQUEOLOGÍA": {
-    "docente": "BIANCHI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -330,7 +330,7 @@
     ]
   },
   "B5042-TALLER DE PRODUCCIÓN DE MATERIALES ORIGINALES": {
-    "docente": "GUIÑAZÚ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -354,13 +354,13 @@
     ]
   },
   "B5021-PROBLEMAS CLÁSICOS DE LA ANTROPOLOGÍA": {
-    "docente": "RAMOS ANA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 6",
@@ -369,7 +369,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 6",
@@ -378,7 +378,7 @@
     ]
   },
   "B5024-ETNOGRAFÍA DE GRUPOS": {
-    "docente": "ABDUCA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -393,7 +393,7 @@
     ]
   },
   "L0005-INGLES COMPRENSION LECTORA II": {
-    "docente": "ACCOSSANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -408,7 +408,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "0",
@@ -426,7 +426,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "0",
@@ -435,7 +435,7 @@
     ]
   },
   "B5027-TALLER DE TESIS": {
-    "docente": "MUZZOPAPPA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -450,7 +450,7 @@
     ]
   },
   "B4974-SEMINARIO OPTATIVO DE FORMACIÓN ESPECÍFICA I: PATRIMONIALIZACIÓN Y MODELOS DE GESTIÓN": {
-    "docente": "BIANCHI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -474,7 +474,7 @@
     ]
   },
   "B5026-PROBLEMAS CONTEMPORÁNEOS DE LA ANTROPOLOGÍA": {
-    "docente": "RAMOS ANA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -489,7 +489,7 @@
     ]
   },
   "B5118-INGLES IV": {
-    "docente": "MARIELA ACCOSSANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -513,7 +513,7 @@
     ]
   },
   "B5202 – ANTROPOLOGÍA ECONÓMICA": {
-    "docente": "ABDUCA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -528,7 +528,7 @@
     ]
   },
   "B5035-ANTROPOLOGÍA DE LA MEMORIA": {
-    "docente": "RAMOS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -552,12 +552,12 @@
     ]
   },
   "PROFESORADO EN EDUCACION SECUNDARIA Y SUPERIOR EN ANTROPOLOGIA": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": []
   },
   "B5542-MAPUZUNGUN": {
-    "docente": "LORENA CAÑUQUEO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -572,7 +572,7 @@
     ]
   },
   "B5551-PSICOLOGIA DEL APRENDIZAJE": {
-    "docente": "QUEVEDO MÓNICA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -596,7 +596,7 @@
     ]
   },
   "B5145-DIDÁCTICA GENERAL": {
-    "docente": "CECILIA FOURES",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -611,7 +611,7 @@
     ]
   },
   "B4991/B5557-EDUCACIÓN Y DISCAPACIDAD": {
-    "docente": "FERNANDEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {

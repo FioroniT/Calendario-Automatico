@@ -1,4 +1,5 @@
 import pandas as pd
+import unicodedata
 import re
 import json
 import os
@@ -31,12 +32,14 @@ def procesar_excel_a_json(archivo_excel):
             
             if clave_actual not in materias_dict:
                 materias_dict[clave_actual] = {
-                    "docente": None,
+                    "docente": "-",
                     "email": "-",
                     "horarios": []
                 }
 
         if materia_actual and d and d != "nan":
+            norm = unicodedata.normalize('NFKD', d)
+            d = ''.join([c for c in norm if not unicodedata.combining(c)])
             comision = "C1"
             if c:
                 match = re.search(r'C\d+', c)
@@ -65,13 +68,13 @@ def procesar_excel_a_json(archivo_excel):
                 elif len(horario_parts) == 1:
                     inicio = fin = horario_parts[0].strip()
             horario_data = {
-                "tipo": tipo_clase,
-                "comision": comision,
-                "dia": d.upper(),
-                "inicio": inicio,
-                "fin": fin,
-                "aula": f if f else None,
-                "lugar": e if e else None
+                "tipo": tipo_clase if tipo_clase else "-",
+                "comision": comision if comision else "-",
+                "dia": d.upper() if d else "-",
+                "inicio": inicio if inicio else "-",
+                "fin": fin if fin else "-",
+                "aula": f if f else "-",
+                "lugar": e if e else "-"
             }
             materias_dict[clave_actual]["horarios"].append(horario_data)
             if i and i != "nan" and not materias_dict[clave_actual]["docente"]:
@@ -81,7 +84,7 @@ def procesar_excel_a_json(archivo_excel):
     return json.dumps(materias_dict, indent=2, ensure_ascii=False)
 
 for entry in os.scandir('Inputs'):  
-    if entry.is_file():
+    if entry.is_file() and entry.path.endswith(".xlsx"):
         json_str = procesar_excel_a_json(entry.path)
         materias = json.loads(json_str)
         with open(f'Outputs\\tmp\\{entry.path.split('\\')[1]}.json', 'w', encoding='utf-8') as f:

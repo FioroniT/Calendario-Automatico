@@ -1,6 +1,6 @@
 {
   "B5155-ENTRENAMIENTO CORPORAL I COMISIÓN A": {
-    "docente": "MONICA DREIDEMIE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -42,7 +42,7 @@
     ]
   },
   "B5155-ENTRENAMIENTO CORPORAL I COMISIÓN B": {
-    "docente": "VENEZIALE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -57,7 +57,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "SUM",
@@ -75,7 +75,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "SUM",
@@ -84,7 +84,7 @@
     ]
   },
   "B5152-ACTUACIÓN I COMISIÓN A": {
-    "docente": "CARAPEZZA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -126,7 +126,7 @@
     ]
   },
   "B5152-ACTUACIÓN I COMISIÓN B": {
-    "docente": "SORIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -141,7 +141,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -159,7 +159,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -168,7 +168,7 @@
     ]
   },
   "B5903-PSICOLOGÍA Y DINÁMICA DE GRUPOS I": {
-    "docente": "A. NUDLER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -210,7 +210,7 @@
     ]
   },
   "B5156-RÍTMICA Y LENGUAJE MUSICAL I COMISION B": {
-    "docente": "PAZ JACQUIER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -234,7 +234,7 @@
     ]
   },
   "B5902-EDUCACIÓN DE LA VOZ I COMISIÓN A": {
-    "docente": "V. GIRAUDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -258,7 +258,7 @@
     ]
   },
   "B5902-EDUCACIÓN DE LA VOZ I COMISIÓN B": {
-    "docente": "V. GIRAUDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -282,7 +282,7 @@
     ]
   },
   "T0002-INTRODUCCIÓN A LA LECTURA Y ESCRITURA ACADÉMICA COM 1 (SÓLO PARA TEATRO Y ARTE DRAMÁTICO)": {
-    "docente": "ANTISTA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -324,13 +324,13 @@
     ]
   },
   "B5164-ENTRENAMIENTO CORPORAL II": {
-    "docente": "TEALDI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19.30",
         "fin": "22.30",
         "aula": "SUM",
@@ -339,7 +339,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19.30",
         "fin": "22.30",
         "aula": "SUM",
@@ -348,7 +348,7 @@
     ]
   },
   "B5161-ACTUACIÓN II": {
-    "docente": "J. DE PAZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -390,7 +390,7 @@
     ]
   },
   "B5165-RÍTMICA Y LENGUAJE MUSICAL II": {
-    "docente": "JACQUIER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -414,7 +414,7 @@
     ]
   },
   "B5908-EDUCACIÓN DE LA VOZ II. A": {
-    "docente": "MONTELLO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -423,7 +423,7 @@
         "dia": "JUEVES",
         "inicio": "16:00",
         "fin": "19:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       },
       {
@@ -432,13 +432,13 @@
         "dia": "JUEVES",
         "inicio": "16:00",
         "fin": "19:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "B5905-HISTORIA DEL TEATRO II": {
-    "docente": "N.ACCOSSANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -480,7 +480,7 @@
     ]
   },
   "B5907-ANÁLISIS DEL HECHO TEATRAL": {
-    "docente": "A. SMART",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -522,31 +522,31 @@
     ]
   },
   "B5172-ENTRENAMIENTO CORPORAL III": {
-    "docente": "M. DREIDEMIE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "16:00",
         "fin": "19:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       },
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "16:00",
         "fin": "19:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "B5169-ACTUACIÓN III": {
-    "docente": "ALONSO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -555,7 +555,7 @@
         "dia": "MARTES",
         "inicio": "09:00",
         "fin": "12:30",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       },
       {
@@ -564,7 +564,7 @@
         "dia": "JUEVES",
         "inicio": "09:00",
         "fin": "12:30",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       },
       {
@@ -573,7 +573,7 @@
         "dia": "MARTES",
         "inicio": "09:00",
         "fin": "12:30",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       },
       {
@@ -582,13 +582,13 @@
         "dia": "JUEVES",
         "inicio": "09:00",
         "fin": "12:30",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "B5916-EDUCACION DE LA VOZ III": {
-    "docente": "F. MONTELLO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -597,7 +597,7 @@
         "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       },
       {
@@ -606,19 +606,19 @@
         "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "B5915-DRAMATURGIA": {
-    "docente": "C. SORÍN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "SÁBADO",
+        "dia": "SABADO",
         "inicio": "10:00",
         "fin": "14:00",
         "aula": "PB",
@@ -627,7 +627,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "SÁBADO",
+        "dia": "SABADO",
         "inicio": "10:00",
         "fin": "14:00",
         "aula": "PB",
@@ -636,7 +636,7 @@
     ]
   },
   "B5913-HISTORIA DEL TEATRO IV": {
-    "docente": "M. LORENZATTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -660,7 +660,7 @@
     ]
   },
   "B5919-METODOLOGÍA DE INVESTIGACIÓN TEATRAL": {
-    "docente": "A. SMART",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -684,7 +684,7 @@
     ]
   },
   "B5179-ACTUACIÓN IV": {
-    "docente": "M. DREIDEMIE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -693,7 +693,7 @@
         "dia": "LUNES",
         "inicio": "19:00",
         "fin": "22:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       },
       {
@@ -702,13 +702,13 @@
         "dia": "VIERNES",
         "inicio": "18:00",
         "fin": "21:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "B5952-DIRECCIÓN Y PUESTA EN ESCENA I": {
-    "docente": "JUAREZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -717,13 +717,13 @@
         "dia": "MARTES",
         "inicio": "16:00",
         "fin": "19.00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "B0119-OPTATIVA I: PEDAGOGÍA MARCIAL Y SOMÁTICA DEL MOVIMIENTO": {
-    "docente": "PRIMOST",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -732,13 +732,13 @@
         "dia": "JUEVES",
         "inicio": "19:00",
         "fin": "22:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "B5954-LABORATORIO ESCÉNICO I": {
-    "docente": "L.VIZCAINO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -747,13 +747,13 @@
         "dia": "JUEVES",
         "inicio": "16:00",
         "fin": "19.00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "B5950-ESCENOTECNIA I": {
-    "docente": "MICHAY FERNANDEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -762,13 +762,13 @@
         "dia": "LUNES",
         "inicio": "16:00",
         "fin": "19:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Palacios y Anasagasti"
       }
     ]
   },
   "L0003-INGLES INTEGRAL II": {
-    "docente": "GONZALEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -777,7 +777,7 @@
         "dia": "LUNES",
         "inicio": "10:00",
         "fin": "12:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Virtual"
       },
       {
@@ -795,7 +795,7 @@
         "dia": "LUNES",
         "inicio": "10:00",
         "fin": "12:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "Virtual"
       },
       {
@@ -810,18 +810,18 @@
     ]
   },
   "PROFESORADO EN TEATRO": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": []
   },
   "B5912 TALLER DE PRÁCTICA DOCENTE II": {
-    "docente": "S.VINTROB",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "PB",
@@ -830,7 +830,7 @@
     ]
   },
   "B510A-PSICOLOGÍA": {
-    "docente": "A. NUDLER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -845,7 +845,7 @@
     ]
   },
   "B5145 DIDÁCTICA GENERAL": {
-    "docente": "C.FOURÉS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -860,7 +860,7 @@
     ]
   },
   "B5924-DIDÁCTICA DEL TEATRO Y PRÁCTICA DE LA ENSEÑANZA I": {
-    "docente": "M. ALVAREZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -884,7 +884,7 @@
     ]
   },
   "B5146-HISTORIA SOCIAL DE LA POLÍTICA EDUCATIVA": {
-    "docente": "C. FOURÉS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -899,7 +899,7 @@
     ]
   },
   "B5921-ANIMACIÓN SOCIOCULTURAL I": {
-    "docente": "L. CAÑUQUEO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {

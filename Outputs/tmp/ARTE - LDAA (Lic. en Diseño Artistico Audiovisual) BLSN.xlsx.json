@@ -1,6 +1,6 @@
 {
   "LENGUAJE VISUAL I": {
-    "docente": "MATEO LOPEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -24,7 +24,7 @@
     ]
   },
   "TALLER DE DISEÑO AUDIOVISUAL I": {
-    "docente": "HERNAN ANDRADE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -48,7 +48,7 @@
     ]
   },
   "DIBUJO": {
-    "docente": "SANTIAGO GRASSO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -72,7 +72,7 @@
     ]
   },
   "GUIÓN I": {
-    "docente": "NURIA VILALTA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -96,7 +96,7 @@
     ]
   },
   "INTRODUCCIÓN A LA LECTURA \nY ESCRITURA ACADÉMICA": {
-    "docente": "MARIANA DE LA PENNA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -120,7 +120,7 @@
     ]
   },
   "HISTORIA GENERAL DEL ARTE": {
-    "docente": "MA. GABRIELA \nHERNÁNDEZ CELIZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -135,7 +135,7 @@
     ]
   },
   "ASIGNATURA": {
-    "docente": "PROFESOR",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -150,7 +150,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEOR/ \nPRAC \nCOMISIÓN",
+        "dia": "TEOR/ \nPRAC \nCOMISION",
         "inicio": "AULA",
         "fin": "AULA",
         "aula": "LUGAR",
@@ -159,7 +159,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEOR/ \nPRAC \nCOMISIÓN",
+        "dia": "TEOR/ \nPRAC \nCOMISION",
         "inicio": "AULA",
         "fin": "AULA",
         "aula": "LUGAR",
@@ -168,7 +168,7 @@
     ]
   },
   "LENGUAJE AUDIOVISUAL": {
-    "docente": "AILÉN SPERA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -183,7 +183,7 @@
     ]
   },
   "TALLER DE DISEÑO AUDIOVISUAL II": {
-    "docente": "JORGE MEREB",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -207,7 +207,7 @@
     ]
   },
   "INTRODUCCIÓN AL MONTAJE": {
-    "docente": "JUAN LEÓN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -231,7 +231,7 @@
     ]
   },
   "HISTORIA ANALÍTICA DE LOS MEDIOS AUDIOVISUALES I": {
-    "docente": "JUAN LEÓN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -246,7 +246,7 @@
     ]
   },
   "FOTOGRAFÍA Y CÁMARA II": {
-    "docente": "MARIA DEZA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -261,7 +261,7 @@
     ]
   },
   "SONIDO II": {
-    "docente": "NORBERTO LIPCHAK",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -276,7 +276,7 @@
     ]
   },
   "TALLER DE DISEÑO AUDIOVISUAL III": {
-    "docente": "JUAN SALTHU",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -291,7 +291,7 @@
     ]
   },
   "LENGUAJE VISUAL II \n- SE CURSA EN EL 1ER Y 2DO CUAT.": {
-    "docente": "PETTINAROLI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -306,7 +306,7 @@
     ]
   },
   "ETICA Y LEGISLACIÓN PROFESIONAL": {
-    "docente": "ROMINA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -321,7 +321,7 @@
     ]
   },
   "TECNOLOGÍA AUDIOVISUAL": {
-    "docente": "ALEJANDRO AMOROSO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -336,7 +336,7 @@
     ]
   },
   "OPTATIVA I: ELECTRICIDAD Y RECURSOS DE ILUMINACIÓN": {
-    "docente": "GUSTAVO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -351,7 +351,7 @@
     ]
   },
   "TRABAJO FINAL DE LICENCIATURA": {
-    "docente": "LUCIANA MORO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -366,7 +366,7 @@
     ]
   },
   "INGLÉS I / INGLÉS INTEGRAL I": {
-    "docente": "CARINA LLOSA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -381,7 +381,7 @@
     ]
   },
   "DISEÑO GRÁFICO": {
-    "docente": "LUISINA RADELAND",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -396,7 +396,7 @@
     ]
   },
   "CONTENIDO Y MODELOS DIGITALES": {
-    "docente": "MARISA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -411,7 +411,7 @@
     ]
   },
   "ANIMACION": {
-    "docente": "SANTIAGO GRASSO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -426,7 +426,7 @@
     ]
   },
   "TEORÍA Y ESTÉTICA CINEMATOGŔAFICA": {
-    "docente": "AILÉN SPERA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -441,7 +441,7 @@
     ]
   },
   "PINTURA": {
-    "docente": "AURELIO GARCÍA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -456,7 +456,7 @@
     ]
   },
   "VIDEO INSTALACION Y TIEMPO REAL": {
-    "docente": "CAROLA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -471,7 +471,7 @@
     ]
   },
   "ARTE Y CODIGO CREATIVO II": {
-    "docente": "CAROLA DREIDEMIE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {

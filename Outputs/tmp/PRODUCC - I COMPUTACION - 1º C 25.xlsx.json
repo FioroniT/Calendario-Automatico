@@ -1,6 +1,6 @@
 {
   "B6000-MATEMATICA I": {
-    "docente": "C. MOLINA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -60,7 +60,7 @@
     ]
   },
   "B6001-INTRODUCCIÓN A LA ING. EN COMPUTACIÓN": {
-    "docente": "P. BRITOS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -102,7 +102,7 @@
     ]
   },
   "T0002-INTRODUCCIÓN A LA LECTURA Y ESCRITURA ACADÉMICA": {
-    "docente": "I. SILIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -153,7 +153,7 @@
     ]
   },
   "B6006-MATEMATICA II": {
-    "docente": "C. MOLINA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -177,7 +177,7 @@
     ]
   },
   "B6008-PROGRAMACIÓN II": {
-    "docente": "M. VILUGRON",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -201,7 +201,7 @@
     ]
   },
   "B6009-ARQUITECTURA DE COMPUTADORAS I": {
-    "docente": "I. NOMDEDEU",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -225,7 +225,7 @@
     ]
   },
   "B6011-FÍSICA GENERAL II": {
-    "docente": "ALBORNOZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -249,7 +249,7 @@
     ]
   },
   "B6013-BASES DE DATOS": {
-    "docente": "C. TEJERO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -273,7 +273,7 @@
     ]
   },
   "B6014-INTRODUCCIÓN A LOS SISTEMAS DISTRIBUIDOS Y PARALELOS": {
-    "docente": "WALTER AGÜERO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -297,7 +297,7 @@
     ]
   },
   "B6016-LABORATORIO DE SISTEMAS EMBEBIDOS": {
-    "docente": "CASTILLO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -321,7 +321,7 @@
     ]
   },
   "B6017-SEGURIDAD AMBIENTAL": {
-    "docente": "RIBERI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -336,7 +336,7 @@
     ]
   },
   "B6021-INGENIERIA DE SOFTWARE I": {
-    "docente": "BRITOS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -345,7 +345,7 @@
         "dia": "MARTES",
         "inicio": "17:30",
         "fin": "20:30",
-        "aula": null,
+        "aula": "-",
         "lugar": "VIRTUAL"
       },
       {
@@ -354,13 +354,13 @@
         "dia": "JUEVES",
         "inicio": "17:30",
         "fin": "20:30",
-        "aula": null,
+        "aula": "-",
         "lugar": "VIRTUAL"
       }
     ]
   },
   "B6022-PROBABILIDAD, ESTADISTICA Y PROCESOS ALEATORIOS": {
-    "docente": "REYNOSO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -384,7 +384,7 @@
     ]
   },
   "B6024-ARQUITECTURA DE COMPUTADORAS II": {
-    "docente": "NOMDEDEU",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -408,7 +408,7 @@
     ]
   },
   "V1275-CIENCIA DE DATOS APLICADA": {
-    "docente": "BRITOS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -432,7 +432,7 @@
     ]
   },
   "B5672-COMUNICACIONES ANALOGICAS Y DIGITALES": {
-    "docente": "COGO JORGE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -456,7 +456,7 @@
     ]
   },
   "B6038-ECONOMIA Y ORGANIZACION INDUSTRIAL": {
-    "docente": "CONTIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -465,7 +465,7 @@
         "dia": "SABADO",
         "inicio": "08:30",
         "fin": "12:30",
-        "aula": null,
+        "aula": "-",
         "lugar": "MITRE 630"
       }
     ]

@@ -1,6 +1,6 @@
 {
   "T0002-ILEA (INTROD A LA LEC Y ESCRIT ACADÉMICA)": {
-    "docente": "ZAMBIANCHI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -33,7 +33,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "21:00",
         "aula": "0",
@@ -105,7 +105,7 @@
     ]
   },
   "V1019-CONTABILIDAD I": {
-    "docente": "DIAZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -156,12 +156,12 @@
     ]
   },
   "V1019-CONTABILIDAD I (RECURSADA)": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": []
   },
   "V1017-ADMINISTRACION I": {
-    "docente": "QUIROGA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -176,7 +176,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "9:00",
         "fin": "11:00",
         "aula": "B102-A",
@@ -239,12 +239,12 @@
     ]
   },
   "V1018-MATEMATICA I (RECURSADA)": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": []
   },
   "V1037-CONTABILIDAD II": {
-    "docente": "OLVAR",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -268,7 +268,7 @@
     ]
   },
   "V1020-METODOLOGÍA DE LAS CIENCIAS SOCIALES": {
-    "docente": "CAPUANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -310,7 +310,7 @@
     ]
   },
   "V1022-ECONOMÍA I": {
-    "docente": "ALVARADO CONTIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -325,7 +325,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "21:00",
         "fin": "23:00",
         "aula": "2 \"A\"",
@@ -352,13 +352,13 @@
     ]
   },
   "V1023-MATEMÁTICA II": {
-    "docente": "QUIJANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "18:00",
         "fin": "21:00",
         "aula": "4 \"A\"",
@@ -376,7 +376,7 @@
     ]
   },
   "V1029-ADMINISTRACION III": {
-    "docente": "CAMANI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -400,13 +400,13 @@
     ]
   },
   "V1410-TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN APLICADAS A LA GESTIÓN": {
-    "docente": "MIGUEL MARIGUIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "2HS",
         "fin": "2HS",
         "aula": "ASINCRONICO",
@@ -424,7 +424,7 @@
     ]
   },
   "B5405-CALCULO FINANCIERO": {
-    "docente": "LOPEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -448,7 +448,7 @@
     ]
   },
   "V1414-TALLER DE ADMINISTRACION DE LA COMERCIALIZACION": {
-    "docente": "SAVARESE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -463,7 +463,7 @@
     ]
   },
   "V1415-COSTOS Y GESTIÓN": {
-    "docente": "AGUILAR P.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -487,7 +487,7 @@
     ]
   },
   "V1034-ECONOMIA III": {
-    "docente": "MALVICINO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -502,7 +502,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "2 \"A\"",
@@ -529,7 +529,7 @@
     ]
   },
   "V1416-DERECHO PRIVADO 2022": {
-    "docente": "BENITEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -553,7 +553,7 @@
     ]
   },
   "L0004-INGLES COMPRENSIÓN LECTORA I": {
-    "docente": "ACCOSANO M",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -577,7 +577,7 @@
     ]
   },
   "B5445-COMUNICACION ORGANIZACIONAL (OPTATIVA)": {
-    "docente": "PRETEL",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -610,7 +610,7 @@
     ]
   },
   "B5440-RESOLUCIÓN ALTERNATIVA DE CONFLICTOS (OPTATIVA)": {
-    "docente": "PERALTA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -652,7 +652,7 @@
     ]
   },
   "V1417-ESTADISTICA": {
-    "docente": "MAGGIORE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -676,7 +676,7 @@
     ]
   },
   "B5386-RESPONSABILIDAD SOCIAL EMPRESARIA (OPTATIVA)": {
-    "docente": "ALONSO F.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -691,7 +691,7 @@
     ]
   },
   "B5408-INFORMACIÓN GERENCIAL 2011/2022": {
-    "docente": "HERNANDEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -706,7 +706,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "21:00",
         "aula": "AULA 3",
@@ -715,12 +715,12 @@
     ]
   },
   "V1420/B5436/V1043-TALLER DE ACTUACIÓN PROFESIONAL/PRÁCTICA PROFESIONAL (OPTATIVA)": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": []
   },
   "B5096-ADMINISTRACIÓN DE PEQUEÑOS NEGOCIOS (OPTATIVA) 2011/2022": {
-    "docente": "GOMIS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -744,7 +744,7 @@
     ]
   },
   "B5386- RESPONSABILIDAD SOCIAL EMPRESARIA (OPTATIVA) 2011/2022": {
-    "docente": "ALONSO F.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -759,7 +759,7 @@
     ]
   },
   "L0005/VR327/B5118-INGLES COMPRENSION LECTORA II/INGLES III/INGLES IV 2011/2022)": {
-    "docente": "LORENZO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -783,7 +783,7 @@
     ]
   },
   "B4982-ECONOMIA DE LA ENERGIA (OPTATIVA)": {
-    "docente": "KOZULJ R",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -807,7 +807,7 @@
     ]
   },
   "V1419-TALLER DE FORMULACION, GESTION Y EVALUACION DE PROYECTOS (2022)": {
-    "docente": "LOPEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -831,7 +831,7 @@
     ]
   },
   "V1424/B5368-TEORIA DE LA DECISION/TOMA DE DECISIONES": {
-    "docente": "TOTONELLI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -846,7 +846,7 @@
     ]
   },
   "B5437-COSTOS PARA LA GESTION EMPRESARIA": {
-    "docente": "AGUILAR",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -861,7 +861,7 @@
     ]
   },
   "B5480-PRINCIPIOS DE ECONOMIA": {
-    "docente": "DONDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -894,7 +894,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "09:00",
         "fin": "11:00",
         "aula": "2 \"B\"",
@@ -903,7 +903,7 @@
     ]
   },
   "B5411-CONTABILIDAD BASICA": {
-    "docente": "VANESA CORDOBA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -945,7 +945,7 @@
     ]
   },
   "V1027-ESTADISTICA I": {
-    "docente": "ARISTIMUÑO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -969,7 +969,7 @@
     ]
   },
   "B5435-MATEMÁTICA II": {
-    "docente": "VENTURA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -993,7 +993,7 @@
     ]
   },
   "B5481-MACROECONOMÍA I": {
-    "docente": "MALVICINO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1008,7 +1008,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "2 \"A\"",
@@ -1035,7 +1035,7 @@
     ]
   },
   "B5482-METODOLOGÍA Y EPISTEMOLOGÍA DE LAS CIENCIAS SOCIALES": {
-    "docente": "CAPUANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1077,7 +1077,7 @@
     ]
   },
   "L0001/VR305-INGLES COMPRENSIÓN LECTORA/INGLES I": {
-    "docente": "ACCOSSANO M.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1101,7 +1101,7 @@
     ]
   },
   "B5487-ECONOMIA MATEMATICA": {
-    "docente": "ATTAGUILE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1134,7 +1134,7 @@
     ]
   },
   "B5424-HISTORIA DEL PENSAMIENTO ECONOMICO": {
-    "docente": "ARISTIMUÑO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1167,7 +1167,7 @@
     ]
   },
   "B5488-HISTORIA ECONOMICA ARGENTINA": {
-    "docente": "CIVITARESI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1182,7 +1182,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "4 \"B\"",
@@ -1200,7 +1200,7 @@
     ]
   },
   "B5417-ORGANIZACION INDUSTRIAL": {
-    "docente": "ALVARADO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1224,7 +1224,7 @@
     ]
   },
   "V1068-ECONOMIA INTERNACIONAL": {
-    "docente": "NIEMBRO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1248,7 +1248,7 @@
     ]
   },
   "B4982-ECONOMIA DE LA ENERGIA (OPTATIVA PLAN 2011)": {
-    "docente": "KOZULJ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1272,7 +1272,7 @@
     ]
   },
   "B5430/B5494-TRABAJO FINAL LICENCIATURA": {
-    "docente": "CAPUANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1296,7 +1296,7 @@
     ]
   },
   "B5416/B5493-DINERO, CREDITO Y BANCOS": {
-    "docente": "ATTAGUILE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1329,7 +1329,7 @@
     ]
   },
   "B5447-CIENCIA, ETICA E INTERVENCION SOCIOPRODUCTIVA Y AMBIENTAL": {
-    "docente": "CONTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1353,7 +1353,7 @@
     ]
   },
   "B6050-GEOGRAFÍA TURÍSTICA": {
-    "docente": "CESETTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1377,13 +1377,13 @@
     ]
   },
   "B6051-INTRODUCCION A LA HOSPITALIDAD": {
-    "docente": "MARRAPODI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "09:00",
         "fin": "12:00",
         "aula": "B102-B",
@@ -1392,7 +1392,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "12:00",
         "fin": "13:00",
         "aula": "0",
@@ -1401,7 +1401,7 @@
     ]
   },
   "B5043-INTRODUCCION AL TURISMO": {
-    "docente": "VILLA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1515,7 +1515,7 @@
     ]
   },
   "B6052-TIC'S- TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN": {
-    "docente": "MIGUEL MARIGUIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1539,7 +1539,7 @@
     ]
   },
   "B5066-RECEPCIÓN Y CONSERJERÍA": {
-    "docente": "MARRAPODI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1563,7 +1563,7 @@
     ]
   },
   "B5087-CONTABILIDAD HOTELERA": {
-    "docente": "OLVAR",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1578,7 +1578,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "21:00",
         "fin": "23:00",
         "aula": "2 \"B\"",
@@ -1587,7 +1587,7 @@
     ]
   },
   "B5057-PATRIMONIO TURISTICO ARGENTINO": {
-    "docente": "VEJSBJERG",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1629,7 +1629,7 @@
     ]
   },
   "B6056-LEGISLACIÓN TURÍSTICA Y HOTELERA": {
-    "docente": "BENITEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1653,7 +1653,7 @@
     ]
   },
   "L0003-INGLÉS INTEGRAL II": {
-    "docente": "GONZALEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1668,7 +1668,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "AULA 5",
@@ -1686,7 +1686,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "AULA 5",
@@ -1695,7 +1695,7 @@
     ]
   },
   "B5071-COMPRAS Y ALMACEN": {
-    "docente": "NUÑEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1719,7 +1719,7 @@
     ]
   },
   "B6061-DERECHO DEL TURISMO": {
-    "docente": "BENITEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1743,7 +1743,7 @@
     ]
   },
   "B5086-COSTOS HOTELEROS": {
-    "docente": "OLVAR",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1767,7 +1767,7 @@
     ]
   },
   "B6060-ECONOMIA": {
-    "docente": "DONDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1782,7 +1782,7 @@
     ]
   },
   "B6063/B5360-PRACTICA PRE PROFESIONAL / PASANTIA I": {
-    "docente": "LUZZARDI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1797,7 +1797,7 @@
     ]
   },
   "B6072/B5077-PRACTICA PRE PROFESIONAL 2 / PASANTIA II": {
-    "docente": "LUZZARDI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1812,7 +1812,7 @@
     ]
   },
   "B6062/B5372-PORTUGUES TECNICO I": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1827,13 +1827,13 @@
     ]
   },
   "B6055-CONTABILIDAD": {
-    "docente": "CORDOBA V.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "2 B",
@@ -1851,7 +1851,7 @@
     ]
   },
   "B5085-PLAN DE NEGOCIOS": {
-    "docente": "CAMANI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1893,7 +1893,7 @@
     ]
   },
   "B6068-ORGANIZACION DE EVENTOS": {
-    "docente": "BIANCHI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1908,7 +1908,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "21:00",
         "fin": "23:00",
         "aula": "AULA 1",
@@ -1917,7 +1917,7 @@
     ]
   },
   "B5010-RUTAS ALIMENTARIAS DE ARGENTINA Y LATINOAMERICA (OPT)": {
-    "docente": "NUÑEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1941,7 +1941,7 @@
     ]
   },
   "B5375-PORTUGUES III (OPT)": {
-    "docente": "RODRIGUEZ K.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1965,7 +1965,7 @@
     ]
   },
   "B5092-ADMINISTRACION DE PEQUEÑOS ESTABLECIMIENTOS (OPT)": {
-    "docente": "GOMIS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -1980,13 +1980,13 @@
     ]
   },
   "B5075-RELACIONES PUBLICAS, PROTOCOLO Y CEREMONIAL": {
-    "docente": "BONANSEA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "0",
@@ -1995,7 +1995,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "21:00",
         "aula": "AULA 5",
@@ -2004,7 +2004,7 @@
     ]
   },
   "B6067-GESTION DE ESTABLECIMIENTOS DE ALOJAMIENTO": {
-    "docente": "FERNANDEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2019,7 +2019,7 @@
     ]
   },
   "B6066/B5070-HOTELERIA Y RESTAURACION/GASTRONOMIA": {
-    "docente": "NUÑEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2034,7 +2034,7 @@
     ]
   },
   "B5521-GEOGRAFÍA TURÍSTICA": {
-    "docente": "CESETTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2049,7 +2049,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "11:00",
         "fin": "13:00",
         "aula": "B202-B",
@@ -2076,7 +2076,7 @@
     ]
   },
   "V1024-SOCIOLOGIA": {
-    "docente": "NATAPOF",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2100,7 +2100,7 @@
     ]
   },
   "B5502/B5372-PORTUGUÉS TÉCNICO 1": {
-    "docente": "HORA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2115,7 +2115,7 @@
     ]
   },
   "B5503-ECONOMÍA": {
-    "docente": "DONDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2130,7 +2130,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "21:00",
         "aula": "2 \"A\"",
@@ -2139,7 +2139,7 @@
     ]
   },
   "B5528-LEGISLACIÓN TURÍSTICA Y HOTELERA": {
-    "docente": "BENITEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2163,7 +2163,7 @@
     ]
   },
   "B5527-ADMINISTRACION GENERAL": {
-    "docente": "TOTONELLI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2187,7 +2187,7 @@
     ]
   },
   "B5509-MARKETING TURISTICO": {
-    "docente": "LUZZARDI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2202,7 +2202,7 @@
     ]
   },
   "B5514-DERECHO DEL TURISMO": {
-    "docente": "BENITEZ D.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2217,7 +2217,7 @@
     ]
   },
   "B5510-GOBIERNO, ORGANISMOS Y POLITICA TURISTICA": {
-    "docente": "DI NARDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2232,13 +2232,13 @@
     ]
   },
   "B5524-CONTABILIDAD": {
-    "docente": "CORDOBA V.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "2 B",
@@ -2256,7 +2256,7 @@
     ]
   },
   "B5375-PORTUGUES III": {
-    "docente": "RODRIGUEZ K.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2280,7 +2280,7 @@
     ]
   },
   "B5345/B5499-PASANTÍA I 2011 /  PRÁCTICA PRE PROFESIONAL I 2022": {
-    "docente": "DI NARDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2295,7 +2295,7 @@
     ]
   },
   "B5508-TALLER DE INTEGRACIÓN 1": {
-    "docente": "BONINI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2319,13 +2319,13 @@
     ]
   },
   "DEU000-OPTATIVA ECONOMÍA SOCIAL, SOLIDARIA Y ...": {
-    "docente": "MARÍA DULCE HENRÍQUEZ ACOSTA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "SÁBADO",
+        "dia": "SABADO",
         "inicio": "09",
         "fin": "13",
         "aula": "0",
@@ -2334,13 +2334,13 @@
     ]
   },
   "B5348/B5516-PROMOCION TURISTICA/PROMOCION Y GESTION DE DESTINOS TURISTICOS": {
-    "docente": "GRASSINI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 4",
@@ -2349,7 +2349,7 @@
     ]
   },
   "B5350-PLANEAMIENTO TURISTICO": {
-    "docente": "CESETTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2364,7 +2364,7 @@
     ]
   },
   "B5351/B5519/B5499-PASANTÍA II 2011 /  PRÁCTICA PRE PROFESIONAL II 2022 / PRACTICA PRE PROFESIONAL I": {
-    "docente": "DI NARDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2379,7 +2379,7 @@
     ]
   },
   "B5118-INGLES 4": {
-    "docente": "GONZALEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -2394,7 +2394,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "AULA 5",
@@ -2403,7 +2403,7 @@
     ]
   },
   "B5498-TALLER DE INTEGRACION II": {
-    "docente": "DI NARDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {

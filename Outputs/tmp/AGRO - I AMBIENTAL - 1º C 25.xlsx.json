@@ -1,6 +1,6 @@
 {
   "B 5622 -ÁLGEBRA Y GEOMETRÍA ANALÍTICA (RECURSADA)": {
-    "docente": "ORELLANA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -33,7 +33,7 @@
     ]
   },
   "B6000-MATEMATICA I": {
-    "docente": "C. MOLINA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -93,7 +93,7 @@
     ]
   },
   "B5625-QUIMICA GENERAL E INORGANICA": {
-    "docente": "LANGENHEIM",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -126,7 +126,7 @@
     ]
   },
   "B5621-ANÁLISIS MATEMÁTICO I (RECURSADA)": {
-    "docente": "BOUZAT",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -150,7 +150,7 @@
     ]
   },
   "B0045/B5623-INFORMATICA Y FUNDAMENTOS DE PROGRAMACION / INFORMÁTICA (COM 1)": {
-    "docente": "GOIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -165,7 +165,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "14:00",
         "fin": "16:00",
         "aula": "B203 (TIC´S)",
@@ -174,7 +174,7 @@
     ]
   },
   "B0045/B5623-INFORMATICA Y FUNDAMENTOS DE PROGRAMACION / INFORMÁTICA (COM 2)": {
-    "docente": "GOIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -198,7 +198,7 @@
     ]
   },
   "B0044/B5630-PROBLEMATICAS AMBIENTALES / PROBLEMÁTICAS DE LA INGENIERÍA AMBIENTAL": {
-    "docente": "SALVARÉ FERNANDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -213,7 +213,7 @@
     ]
   },
   "B5733-QUÍMICA\nORGÁNICA": {
-    "docente": "GONZALEZ VELASQUEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -237,13 +237,13 @@
     ]
   },
   "B5742-FISICA II": {
-    "docente": "SÁNCHEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "AULA 7",
@@ -270,7 +270,7 @@
     ]
   },
   "B5735-TECNOLOGÍA, AMBIENTE Y\nSOCIEDAD": {
-    "docente": "NUÑEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -285,7 +285,7 @@
     ]
   },
   "B5731-PROBABILIDAD Y ESTADÍSTICA": {
-    "docente": "ODDI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -309,7 +309,7 @@
     ]
   },
   "B5636-ECOLOGÍA": {
-    "docente": "NACIF",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -324,7 +324,7 @@
     ]
   },
   "B5781-ECONOMÍA AMBIENTAL": {
-    "docente": "BRAVO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -339,7 +339,7 @@
     ]
   },
   "B5462-MECÁNICA DE FLUIDOS": {
-    "docente": "PAZ ZALAZAR",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -363,7 +363,7 @@
     ]
   },
   "L0005-INGLÉS COMPRENSIÓN LECTORA II": {
-    "docente": "LORENZO DE M.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -387,7 +387,7 @@
     ]
   },
   "B5763-QUÍMICA Y CONTAMINACIÓN AMBIENTAL": {
-    "docente": "D'AMICO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -402,7 +402,7 @@
     ]
   },
   "B5761-GESTIÓN DE RECURSOS NATURALES": {
-    "docente": "MARQUÉS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -426,7 +426,7 @@
     ]
   },
   "B5633-HIGIENE, SEGURIDAD Y AMBIENTE": {
-    "docente": "RIBERI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -441,13 +441,13 @@
     ]
   },
   "B5634-TELEDETECCIÓN Y SIST. DE INF. GEOGRÁFICA": {
-    "docente": "SALVARÉ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15.00",
         "fin": "19.00",
         "aula": "B101",
@@ -456,7 +456,7 @@
     ]
   },
   "B5773-POLÍTICA Y LEGISLACIÓN AMBIENTAL": {
-    "docente": "WALLACE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -471,7 +471,7 @@
     ]
   },
   "B5795-TRATAMIENTO Y REUTILIZACION DE AGUAS RESIDUALES": {
-    "docente": "MARTÍN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -495,7 +495,7 @@
     ]
   },
   "B5403-ORGANIZACIÓN INDUSTRIAL": {
-    "docente": "CAMANI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -510,12 +510,12 @@
     ]
   },
   "OPTATIVAS": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": []
   },
   "B5738-MODELADO DE LA DISPERSION ATMOSFERICA": {
-    "docente": "CAPUTO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -524,13 +524,13 @@
         "dia": "MARTES",
         "inicio": "17:00",
         "fin": "21:00",
-        "aula": null,
-        "lugar": null
+        "aula": "-",
+        "lugar": "-"
       }
     ]
   },
   "B5716-EVALUACION DE RIESGO AMBIENTAL": {
-    "docente": "PIOLA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -545,7 +545,7 @@
     ]
   },
   "B570H-MANEJO DE CUENCAS HIDRICAS": {
-    "docente": "NINI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -560,7 +560,7 @@
     ]
   },
   "B5962-ECOHIDRAULICA FLUVIAL Y CAUDALES AMBIENTALES": {
-    "docente": "NINI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -575,7 +575,7 @@
     ]
   },
   "B5717-ORDENAMIENTO TERRITORIAL": {
-    "docente": "MICHEL",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -599,7 +599,7 @@
     ]
   },
   "B5378-CIENCIA, ETICA E INTERVENCION SOCIOPRODUCTIVA Y AMBIENTAL": {
-    "docente": "CONTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {

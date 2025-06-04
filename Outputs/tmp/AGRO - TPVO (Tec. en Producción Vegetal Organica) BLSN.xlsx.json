@@ -1,12 +1,12 @@
 {
   "FÍSICA APLICADA": {
-    "docente": "DIEGO GALPERIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO",
+        "dia": "TEORICO",
         "inicio": "7",
         "fin": "7",
         "aula": "Presencial",
@@ -15,13 +15,13 @@
     ]
   },
   "RAZONAMIENTO Y RESOLUCIÓN DE PROBLEMAS": {
-    "docente": "GUIDO CLARO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO",
+        "dia": "TEORICO",
         "inicio": "7",
         "fin": "7",
         "aula": "Presencial",
@@ -30,13 +30,13 @@
     ]
   },
   "INTRODUCCIÓN A LA LECTURA \n Y ESCRITURA ACADÉMICA": {
-    "docente": "MARIANA DE LA \nPENNA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO",
+        "dia": "TEORICO",
         "inicio": "5",
         "fin": "5",
         "aula": "Presencial",
@@ -45,13 +45,13 @@
     ]
   },
   "MATEMÁTICA": {
-    "docente": "GUIDO CLARO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "COM 1\nTEÓRICO",
+        "dia": "COM 1\nTEORICO",
         "inicio": "8",
         "fin": "8",
         "aula": "Presencial",
@@ -60,7 +60,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "COM 2\nTEÓRICO",
+        "dia": "COM 2\nTEORICO",
         "inicio": "-",
         "fin": "-",
         "aula": "Asincrónico",
@@ -69,13 +69,13 @@
     ]
   },
   "BOTÁNICA MORFOLÓGICA": {
-    "docente": "JAVIER PUNTIERI\nCECILIA SOBRERO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO",
+        "dia": "TEORICO",
         "inicio": "7",
         "fin": "7",
         "aula": "Presencial",
@@ -84,7 +84,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRÁCTICO COM 1",
+        "dia": "PRACTICO COM 1",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -93,7 +93,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRÁCTICO COM 2",
+        "dia": "PRACTICO COM 2",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -102,7 +102,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRÁCTICO COM 3",
+        "dia": "PRACTICO COM 3",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -111,7 +111,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRÁCTICO COM 4",
+        "dia": "PRACTICO COM 4",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -120,13 +120,13 @@
     ]
   },
   "QUÍMICA APLICADA": {
-    "docente": "GASTON DI BONIS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO \nPRÁCTICO COM 3",
+        "dia": "TEORICO \nPRACTICO COM 3",
         "inicio": "8 + Lab.",
         "fin": "8 + Lab.",
         "aula": "Presencial",
@@ -135,7 +135,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRÁCTICO, COM 1",
+        "dia": "PRACTICO, COM 1",
         "inicio": "7 + Lab.",
         "fin": "7 + Lab.",
         "aula": "Presencial",
@@ -144,7 +144,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO COM 1",
+        "dia": "TEORICO COM 1",
         "inicio": "-",
         "fin": "-",
         "aula": "Asincrónico",
@@ -153,7 +153,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRÁCTICO, COM 2",
+        "dia": "PRACTICO, COM 2",
         "inicio": "7 + Lab.",
         "fin": "7 + Lab.",
         "aula": "Presencial",
@@ -162,7 +162,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO COM 2",
+        "dia": "TEORICO COM 2",
         "inicio": "-",
         "fin": "-",
         "aula": "Asincrónico",
@@ -171,13 +171,13 @@
     ]
   },
   "INFORMÁTICA": {
-    "docente": "NOELIA VERDÚN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO -PRÁCTICO",
+        "dia": "TEORICO -PRACTICO",
         "inicio": "6",
         "fin": "6",
         "aula": "Virtual",
@@ -186,7 +186,7 @@
     ]
   },
   "ASIGNATURA": {
-    "docente": "PROFESOR",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -210,13 +210,13 @@
     ]
   },
   "SISTEMAS PRODUCTIVOS. ORGÁNICOS": {
-    "docente": "EDUARDO MARTÍNEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO \nPRÁCTICO",
+        "dia": "TEORICO \nPRACTICO",
         "inicio": "6",
         "fin": "6",
         "aula": "Presencial",
@@ -225,13 +225,13 @@
     ]
   },
   "CLIMATOLOGÍA Y AGROMETEOROLOGÍA": {
-    "docente": "EMILIO BIANCHI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO",
+        "dia": "TEORICO",
         "inicio": "5",
         "fin": "5",
         "aula": "Presencial",
@@ -240,13 +240,13 @@
     ]
   },
   "ECONOMÍA POLÍTICA": {
-    "docente": "GASTON BLASQUIZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO",
+        "dia": "TEORICO",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -255,13 +255,13 @@
     ]
   },
   "EDAFOLOGÍA": {
-    "docente": "M. VICTORIA CREMONA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO \nPRÁCTICO",
+        "dia": "TEORICO \nPRACTICO",
         "inicio": "5",
         "fin": "5",
         "aula": "Presencial",
@@ -270,13 +270,13 @@
     ]
   },
   "FISIOLOGÍA DE LAS PLANTAS \nSUPERIORES": {
-    "docente": "NAZARENA SPERA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO \nPRÁCTICO",
+        "dia": "TEORICO \nPRACTICO",
         "inicio": "5 + Lab.",
         "fin": "5 + Lab.",
         "aula": "Presencial",
@@ -285,13 +285,13 @@
     ]
   },
   "AROMATICAS Y MEDICINALES": {
-    "docente": "CECILIA SOBRERO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO \nPRÁCTICO",
+        "dia": "TEORICO \nPRACTICO",
         "inicio": "2 + Lab.",
         "fin": "2 + Lab.",
         "aula": "Presencial",
@@ -300,13 +300,13 @@
     ]
   },
   "MULTIPLICACIÓN DE ESPECIES": {
-    "docente": "PAOLA PIZZINGRILLI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO \nPRÁCTICO",
+        "dia": "TEORICO \nPRACTICO",
         "inicio": "6",
         "fin": "6",
         "aula": "Presencial",
@@ -315,13 +315,13 @@
     ]
   },
   "FRUTICULTURA": {
-    "docente": "EDUARDO MARTÍNEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO \nPRÁCTICO",
+        "dia": "TEORICO \nPRACTICO",
         "inicio": "6",
         "fin": "6",
         "aula": "Presencial",
@@ -330,13 +330,13 @@
     ]
   },
   "HORTICULTURA": {
-    "docente": "GABRIELA RODRIGUEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEÓRICO \nPRÁCTICO",
+        "dia": "TEORICO \nPRACTICO",
         "inicio": "2",
         "fin": "2",
         "aula": "Presencial",

@@ -1,6 +1,6 @@
 {
   "B5579-MATEMÁTICA I": {
-    "docente": "QUIJANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -24,7 +24,7 @@
     ]
   },
   "B5578-FÍSICA I A: MATERIA": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -57,7 +57,7 @@
     ]
   },
   "B5590-TALLER DE PRACTICA DOCENTE EN QUIMICA I": {
-    "docente": "BERGER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -72,7 +72,7 @@
     ]
   },
   "B5580-INTRODUCCIÓN A LA QUÍMICA": {
-    "docente": "RAVIOLO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -105,7 +105,7 @@
     ]
   },
   "B5708-QUÍMICA INORGÁNICA I": {
-    "docente": "FOUGA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -129,7 +129,7 @@
     ]
   },
   "B5707-QUIMICA ANALITICA": {
-    "docente": "GUIÑAZÚ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -153,7 +153,7 @@
     ]
   },
   "T0002-INTRODUCCIÓN A LA LECTURA Y ESCRITURA ACADÉMICA": {
-    "docente": "I. SILIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -195,7 +195,7 @@
     ]
   },
   "B5551-PSICOLOGIA DEL APRENDIZAJE": {
-    "docente": "QUEVEDO MÓNICA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -210,7 +210,7 @@
     ]
   },
   "B5699-TALLER DE PRÁCTICA DOCENTE EN QUIMICA II": {
-    "docente": "CARABELLI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -225,7 +225,7 @@
     ]
   },
   "B5292/B5718-TALLER DE PRÁCTICA DOCENTE III (PROF. QCA)": {
-    "docente": "ILARRI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -240,7 +240,7 @@
     ]
   },
   "B5145-DIDÁCTICA GENERAL (2011/2023)": {
-    "docente": "FOURES",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -255,7 +255,7 @@
     ]
   },
   "B5556-HISTORIA SOCIAL DE LA POLÍTICA EDUCATIVA": {
-    "docente": "FOURES",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -270,7 +270,7 @@
     ]
   },
   "B5239/B5710-QUÍMICA ORGÁNICA I": {
-    "docente": "BAGNATO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -294,7 +294,7 @@
     ]
   },
   "L0005/VR316-INGLES COMPRENSIÓN LECTORA II / INGLES II": {
-    "docente": "LORENZO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -318,7 +318,7 @@
     ]
   },
   "B5247/5726-FISICOQUÍMICA II": {
-    "docente": "SERQUIS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -342,7 +342,7 @@
     ]
   },
   "B5296/B5689-METODOLOGÍA DE LA INVESTIGACIÓN EDUCATIVA": {
-    "docente": "FERNÁNDEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -357,7 +357,7 @@
     ]
   },
   "B5248/B5723-DIDÁCTICA DE LA QUÍMICA II": {
-    "docente": "FARRÉ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -372,7 +372,7 @@
     ]
   },
   "B5150/B5724-PRÁCTICA DE LA ENSEÑANZA": {
-    "docente": "FARRÉ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -396,7 +396,7 @@
     ]
   },
   "B5118-INGLES IV": {
-    "docente": "LORENZO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {

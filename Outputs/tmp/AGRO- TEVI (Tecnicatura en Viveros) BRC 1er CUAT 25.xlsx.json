@@ -1,6 +1,6 @@
 {
   "B5833-QUÍMICA": {
-    "docente": "AGÜERO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -33,7 +33,7 @@
     ]
   },
   "B5832- MATEMÁTICAS": {
-    "docente": "ARROYO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -66,7 +66,7 @@
     ]
   },
   "B5802- BOTÁNICA MORFOLÓGICA": {
-    "docente": "PUNTIERI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -99,7 +99,7 @@
     ]
   },
   "B5831-VIVEROS I": {
-    "docente": "SANCHEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -114,25 +114,25 @@
       {
         "tipo": "PRACTICA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "09:00",
         "fin": "13:00",
-        "aula": null,
+        "aula": "-",
         "lugar": "VIVERO KM 11"
       },
       {
         "tipo": "PRACTICA",
         "comision": "C2",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "14.00",
         "fin": "18.00",
-        "aula": null,
+        "aula": "-",
         "lugar": "VIVERO KM 11"
       }
     ]
   },
   "B5830-TALLER DE ESTRATEGIAS DE ESTUDIOS Y ESCRITURA": {
-    "docente": "IPARRAGUIRRE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -156,7 +156,7 @@
     ]
   },
   "B5809-FISIOLOGÍA VEGETAL": {
-    "docente": "MARCHETTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -180,7 +180,7 @@
     ]
   },
   "B5837-VIVEROS II (ANUAL)": {
-    "docente": "GUSTAVO SANCHEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -198,13 +198,13 @@
         "dia": "JUEVES",
         "inicio": "14.00",
         "fin": "18.00",
-        "aula": null,
+        "aula": "-",
         "lugar": "VIVERO PJE GUTIERREZ"
       }
     ]
   },
   "B5839-MAQUINARIAS, HERRAMIENTAS Y SEGURIDAD": {
-    "docente": "FERENCICH",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -219,7 +219,7 @@
     ]
   },
   "B5838-ESTADÍSTICA APLICADA": {
-    "docente": "ARROYO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -234,7 +234,7 @@
     ]
   },
   "B5843-VIVEROS III": {
-    "docente": "NIJENSOHN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -258,7 +258,7 @@
     ]
   },
   "B0120-GESTIÓN DE RECURSOS NATURALES": {
-    "docente": "MARQUÉS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -282,7 +282,7 @@
     ]
   },
   "B5844 – NUTRICION VEGETAL": {
-    "docente": "CASTÁN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -297,7 +297,7 @@
     ]
   },
   "B5846-PRACTICA PROFESIONAL": {
-    "docente": "MAZZONI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {

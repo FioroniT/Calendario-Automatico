@@ -1,6 +1,6 @@
 {
   "T0001-RAZONAMIENTO Y RESOLUCIÓN DE PROBLEMAS (RRP) COM 1": {
-    "docente": "WERNING",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -24,7 +24,7 @@
     ]
   },
   "B5622 -ÁLGEBRA Y GEOMETRÍA ANALÍTICA (RECURSADA)": {
-    "docente": "ORELLANA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -57,7 +57,7 @@
     ]
   },
   "B5621-ANÁLISIS MATEMÁTICO I (RECURSADA)": {
-    "docente": "BOUZAT",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -81,7 +81,7 @@
     ]
   },
   "B0201-TALLER DE MATEMÁTICA PARA INGENIERÍA": {
-    "docente": "MOLINA; CLAUDIO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -96,7 +96,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "10",
         "fin": "13",
         "aula": "B202-A",
@@ -114,7 +114,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "13",
         "fin": "16",
         "aula": "B202-A",
@@ -132,7 +132,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "16",
         "fin": "19",
         "aula": "B202-A",
@@ -141,7 +141,7 @@
     ]
   },
   "B0202-TALLER DE LECTURA Y ESCRITURA ACADÉMICA": {
-    "docente": "DE DIEGO; JULIA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -156,7 +156,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "9",
         "fin": "11",
         "aula": "4 \"C\"",
@@ -201,7 +201,7 @@
     ]
   },
   "B0200-PROGRAMACIÓN I": {
-    "docente": "LOPEZ POMBO; CARLOS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -243,7 +243,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17",
         "fin": "21",
         "aula": "4 \"B\"",
@@ -252,7 +252,7 @@
     ]
   },
   "B0222-INTRODUCCIÓN A LA INGENIERÍA EN TELECOMUNICACIONES": {
-    "docente": "COGO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -276,7 +276,7 @@
     ]
   },
   "B5618-PROGRAMACIÓN Y ALGORITMOS     ( COM 1 )": {
-    "docente": "DENHAM",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -300,7 +300,7 @@
     ]
   },
   "B5618-PROGRAMACIÓN Y ALGORITMOS (COM 2)": {
-    "docente": "MORIXE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -324,7 +324,7 @@
     ]
   },
   "B5637-ANÁLISIS MATEMÁTICO III": {
-    "docente": "VAQUILA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -348,13 +348,13 @@
     ]
   },
   "B5742-FISICA II": {
-    "docente": "SÁNCHEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19.00",
         "fin": "22.00",
         "aula": "AULA 7",
@@ -384,8 +384,8 @@
         "dia": "LUNES",
         "inicio": "14",
         "fin": "18",
-        "aula": null,
-        "lugar": null
+        "aula": "-",
+        "lugar": "-"
       },
       {
         "tipo": "CLASE",
@@ -393,13 +393,13 @@
         "dia": "VIERNES",
         "inicio": "13",
         "fin": "17",
-        "aula": null,
-        "lugar": null
+        "aula": "-",
+        "lugar": "-"
       }
     ]
   },
   "B5650-TEORÍA DE PROBABILIDAD": {
-    "docente": "HUAYLLA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -423,7 +423,7 @@
     ]
   },
   "B5862-SISTEMAS Y SEÑALES II": {
-    "docente": "GÓMEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -438,7 +438,7 @@
     ]
   },
   "B5863-ELECTROMAGNETISMO APLICADO": {
-    "docente": "CAMPITELLI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -462,7 +462,7 @@
     ]
   },
   "B5605-DISPOSITIVOS ELECTRÓNICOS": {
-    "docente": "DUGA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -486,7 +486,7 @@
     ]
   },
   "B5617-ECONOMÍA Y ORGANIZACIÓN INDUSTRIAL": {
-    "docente": "ALVARADO CONTIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -495,13 +495,13 @@
         "dia": "SABADO",
         "inicio": "08:30",
         "fin": "12:30",
-        "aula": null,
+        "aula": "-",
         "lugar": "MITRE 630"
       }
     ]
   },
   "L0005-INGLÉS COMPRENSIÓN LECTORA II": {
-    "docente": "MONICA LORENZO DE M.",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -525,7 +525,7 @@
     ]
   },
   "B5672-COMUNICACIONES ANALÓGICAS Y DIGITALES": {
-    "docente": "COGO JORGE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -549,7 +549,7 @@
     ]
   },
   "B5683-ARQUITECTURA DE COMPUTADORAS Y SISTEMAS EMBEBIDOS": {
-    "docente": "CASTILLO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -591,7 +591,7 @@
     ]
   },
   "B5868-LABORATORIO DE COMUNICACIONES I": {
-    "docente": "WIEFLING",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -606,7 +606,7 @@
     ]
   },
   "B4990-INTELIGENCIA ARTIFICIAL": {
-    "docente": "TULA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -621,7 +621,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:30",
         "fin": "20:30",
         "aula": "LAB 105",
@@ -630,7 +630,7 @@
     ]
   },
   "B5629-METODOLOGIA Y PROCESO DE DISEÑO": {
-    "docente": "NEUMAN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -654,7 +654,7 @@
     ]
   },
   "B5679-PROCESAMIENTO DE SEÑALES AVANZADO": {
-    "docente": "BOTTAZZI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -678,7 +678,7 @@
     ]
   },
   "B5378-CIENCIA, ETICA E INTERVENCION SOCIOPRODUCTIVA Y AMBIENTAL": {
-    "docente": "CONTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -702,7 +702,7 @@
     ]
   },
   "B5693-ELECTRÓNICA ANALÓGICA II": {
-    "docente": "GABARRET",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -717,7 +717,7 @@
     ]
   },
   "REDES DE COMUNICACIONES (B5880)": {
-    "docente": "BENOIT",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -732,7 +732,7 @@
     ]
   },
   "SISTEMAS Y TECNOLOGÍAS DE COMUNICACIONES ( B5882 )": {
-    "docente": "DENK",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -747,12 +747,12 @@
     ]
   },
   "FUNDAMENTOS DE COMUNICACIONES INALÁMBRICAS ( B5881 )": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": []
   },
   "B5891-OPTATIVA: HERRAMIENTAS DE GESTIÓN DE NEGOCIOS Y TELECOMUNICACIONES": {
-    "docente": "FAMÁ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {

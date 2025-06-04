@@ -1,6 +1,6 @@
 {
   "B5038-FUNDAMENTOS DE EPISTEMOLOGÍA": {
-    "docente": "REISING",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -78,7 +78,7 @@
     ]
   },
   "B5399 -TALLER DE LECTURA Y ESCRITURA ACADÉMICA I": {
-    "docente": "BIRGIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -120,7 +120,7 @@
     ]
   },
   "B5398-TALLER DE ESCRITURA DE INVENCIÓN": {
-    "docente": "BIRGIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -162,7 +162,7 @@
     ]
   },
   "B5392-INTRODUCCIÓN A LOS ESTUDIOS LITERARIOS": {
-    "docente": "ACCOSSANO NATALIA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -240,7 +240,7 @@
     ]
   },
   "B5100-FUNDAMENTOS DE ANTROPOLOGÍA": {
-    "docente": "MARÍA EMILIA SABATELLA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -255,7 +255,7 @@
     ]
   },
   "B5102-HISTORIA SOCIAL GENERAL": {
-    "docente": "DELRIO WALTER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -270,7 +270,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 1",
@@ -279,7 +279,7 @@
     ]
   },
   "B5545-HISTORIA LATINOAMERICANA Y ARGENTINA": {
-    "docente": "PEREZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -303,7 +303,7 @@
     ]
   },
   "B5459-ESTUDIOS SOBRE LA LECTURA Y LA ESCRITURA": {
-    "docente": "EISNER",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -327,13 +327,13 @@
     ]
   },
   "B5460-LITERATURA INFANTIL Y JUVENIL": {
-    "docente": "RODRÍGUEZ NATALIA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 2",
@@ -342,7 +342,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 2",
@@ -351,7 +351,7 @@
     ]
   },
   "B5457-GRAMÁTICA I": {
-    "docente": "ANA PACAGNINI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -375,7 +375,7 @@
     ]
   },
   "B5467- TALLER DE LECTURA Y ESCRITURA ACADEMICA II": {
-    "docente": "BIRGIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -399,7 +399,7 @@
     ]
   },
   "B5458-LITERATURA EUROPEA MODERNA": {
-    "docente": "GABRIELONI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -423,7 +423,7 @@
     ]
   },
   "B5122/B5468-LINGÜÍSTICA I": {
-    "docente": "DREIDEMIE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -465,7 +465,7 @@
     ]
   },
   "B5473-HISTORIA DEL ARTE": {
-    "docente": "LLARRULL",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -489,13 +489,13 @@
     ]
   },
   "B5469-METODOLOGIA DE LOS ESTUDIOS LINGÜISTICOS Y LITERARIOS": {
-    "docente": "MALVESTITTI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 4",
@@ -504,7 +504,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "AULA 4",
@@ -513,7 +513,7 @@
     ]
   },
   "B5472/B5123-LITERATURA LATINOAMERICANA I": {
-    "docente": "ARCOS",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -537,7 +537,7 @@
     ]
   },
   "B5128-LINGÜÍSTICA II": {
-    "docente": "DREIDEMIE",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -579,7 +579,7 @@
     ]
   },
   "B5118-INGLES IV": {
-    "docente": "MARIELA ACCOSSANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -621,7 +621,7 @@
     ]
   },
   "B4991/B5557-EDUCACION Y DISCAPACIDAD": {
-    "docente": "FERNANDEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -645,7 +645,7 @@
     ]
   },
   "B5144/B5542-ELEMENTOS DE MAPUZUGUN": {
-    "docente": "CAÑUQUEO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -669,7 +669,7 @@
     ]
   },
   "B503F-CINE Y LITERATURA": {
-    "docente": "GUZMÁN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -693,7 +693,7 @@
     ]
   },
   "B4969-INTRODUCCIÓN A LA OBRA DE JORGE LUIS BORGES": {
-    "docente": "MAGARIL",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -717,7 +717,7 @@
     ]
   },
   "B4971-HISTORIA ARGENTINA, NACIÓN Y CLASE OBRERA": {
-    "docente": "BENCLOWICZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -759,18 +759,18 @@
     ]
   },
   "PROFESORADO EN LENGUA Y LITERATURA": {
-    "docente": null,
+    "docente": "-",
     "email": "-",
     "horarios": []
   },
   "B5550-TALLER DE PRACTICA DOCENTE EN LENGUA Y LITERATURA": {
-    "docente": "TAPIA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "23:00",
         "aula": "2 \"D\"",
@@ -779,7 +779,7 @@
     ]
   },
   "B5114/B5457-GRAMÁTICA I": {
-    "docente": "ANA PACAGNINI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -803,7 +803,7 @@
     ]
   },
   "B5551-PSICOLOGIA DEL APRENDIZAJE": {
-    "docente": "MÓNICA QUEVEDO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -818,7 +818,7 @@
     ]
   },
   "B5467-TALLER DE LECTURA Y ESCRITURA ACADEMICA II": {
-    "docente": "BIRGIN",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -842,7 +842,7 @@
     ]
   },
   "B5145-DIDÁCTICA GENERAL": {
-    "docente": "CECILIA FOURES",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -857,7 +857,7 @@
     ]
   },
   "B5146-HISTORIA SOCIAL DE LA POLÍTICA EDUCATIVA": {
-    "docente": "CECILIA FOURES",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -872,7 +872,7 @@
     ]
   },
   "L0005-INGLES COMPRENSION LECTORA II": {
-    "docente": "ACCOSSANO",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -887,7 +887,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "MIÉRCOLES",
+        "dia": "MIERCOLES",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "0",
@@ -896,7 +896,7 @@
     ]
   },
   "B5555-DIDACTICA Y PRACTICAS DE LA LENGUA Y LITERATURA I": {
-    "docente": "NATALIA RODRIGUEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -911,7 +911,7 @@
     ]
   },
   "B5148-DIDÁCTICA DE LA LENGUA Y LA LITERATURA II": {
-    "docente": "NATALIA RODRIGUEZ",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -926,7 +926,7 @@
     ]
   },
   "B5117-PRÁCTICAS DE ENSEÑANZA": {
-    "docente": "STELLA TAPIA",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
@@ -944,13 +944,13 @@
         "dia": "LUNES",
         "inicio": "21:00",
         "fin": "23:00",
-        "aula": null,
-        "lugar": null
+        "aula": "-",
+        "lugar": "-"
       }
     ]
   },
   "B5120-LITERATURAS EUROPEAS I": {
-    "docente": "GABRIELONI",
+    "docente": "-",
     "email": "-",
     "horarios": [
       {
