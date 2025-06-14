@@ -6,7 +6,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "11:30",
         "fin": "13:30",
         "aula": "SUM",
@@ -15,7 +15,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "12:00",
         "fin": "14:00",
         "aula": "SUM",
@@ -24,7 +24,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "11:30",
         "fin": "13:30",
         "aula": "SUM",
@@ -33,7 +33,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "12:00",
         "fin": "14:00",
         "aula": "SUM",
@@ -48,7 +48,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "SUM",
@@ -57,7 +57,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "SUM",
@@ -66,7 +66,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "SUM",
@@ -75,7 +75,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "SUM",
@@ -90,7 +90,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "9:00",
         "fin": "13:00",
         "aula": "SUM",
@@ -99,7 +99,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "09:00",
         "fin": "12:00",
         "aula": "SUM",
@@ -108,7 +108,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "9:00",
         "fin": "13:00",
         "aula": "SUM",
@@ -117,7 +117,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "09:00",
         "fin": "12:00",
         "aula": "SUM",
@@ -132,7 +132,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -141,7 +141,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -150,7 +150,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -159,7 +159,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -174,7 +174,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "AULA 6",
@@ -183,7 +183,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "22:00",
         "fin": "23:00",
         "aula": "0",
@@ -192,7 +192,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "AULA 6",
@@ -201,7 +201,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "22:00",
         "fin": "23:00",
         "aula": "0",
@@ -216,7 +216,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "SUM",
@@ -225,7 +225,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "SUM",
@@ -240,7 +240,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "9:30",
         "fin": "12:30",
         "aula": "SUM",
@@ -249,7 +249,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "9:30",
         "fin": "12:30",
         "aula": "SUM",
@@ -264,7 +264,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "AULA 2",
@@ -273,7 +273,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "AULA 2",
@@ -288,7 +288,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "13:00",
         "fin": "15:00",
         "aula": "B101",
@@ -297,7 +297,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "AULA 4",
@@ -306,7 +306,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "13:00",
         "fin": "15:00",
         "aula": "PB",
@@ -315,7 +315,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "AULA 4",
@@ -330,7 +330,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "19.30",
         "fin": "22.30",
         "aula": "SUM",
@@ -339,7 +339,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "19.30",
         "fin": "22.30",
         "aula": "SUM",
@@ -354,7 +354,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -363,7 +363,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -372,7 +372,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -381,7 +381,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "19:00",
         "fin": "22:30",
         "aula": "SUM",
@@ -396,7 +396,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "10:00",
         "fin": "21:00",
         "aula": "SUM",
@@ -405,7 +405,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "10:00",
         "fin": "21:00",
         "aula": "SUM",
@@ -420,7 +420,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "16:00",
         "fin": "19:00",
         "aula": "-",
@@ -429,7 +429,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "16:00",
         "fin": "19:00",
         "aula": "-",
@@ -444,7 +444,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "lunes",
+        "dia": "LUNES",
         "inicio": "16:00",
         "fin": "19:00",
         "aula": "PB",
@@ -453,7 +453,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "lunes",
+        "dia": "LUNES",
         "inicio": "22:00",
         "fin": "23:00",
         "aula": "VIRTUAL",
@@ -462,7 +462,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "lunes",
+        "dia": "LUNES",
         "inicio": "16:00",
         "fin": "19:00",
         "aula": "PB",
@@ -471,7 +471,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "lunes",
+        "dia": "LUNES",
         "inicio": "22:00",
         "fin": "23:00",
         "aula": "VIRTUAL",
@@ -486,7 +486,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "16:30",
         "fin": "18:30",
         "aula": "PB",
@@ -495,7 +495,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "16:30",
         "fin": "18:30",
         "aula": "PB",
@@ -504,7 +504,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "16:30",
         "fin": "18:30",
         "aula": "PB",
@@ -513,7 +513,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "16:30",
         "fin": "18:30",
         "aula": "PB",
@@ -528,7 +528,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "16:00",
         "fin": "19:00",
         "aula": "-",
@@ -537,7 +537,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "16:00",
         "fin": "19:00",
         "aula": "-",
@@ -552,7 +552,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "09:00",
         "fin": "12:30",
         "aula": "-",
@@ -561,7 +561,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "09:00",
         "fin": "12:30",
         "aula": "-",
@@ -570,7 +570,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "09:00",
         "fin": "12:30",
         "aula": "-",
@@ -579,7 +579,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "09:00",
         "fin": "12:30",
         "aula": "-",
@@ -594,7 +594,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "miercoles",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "-",
@@ -603,7 +603,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "miercoles",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "-",
@@ -618,7 +618,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Sabado",
+        "dia": "SABADO",
         "inicio": "10:00",
         "fin": "14:00",
         "aula": "PB",
@@ -627,7 +627,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Sabado",
+        "dia": "SABADO",
         "inicio": "10:00",
         "fin": "14:00",
         "aula": "PB",
@@ -642,7 +642,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "17:00",
         "fin": "20:00",
         "aula": "2 \"D\"",
@@ -651,7 +651,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "17:00",
         "fin": "20:00",
         "aula": "2 \"D\"",
@@ -666,7 +666,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "PB",
@@ -675,7 +675,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "PB",
@@ -690,7 +690,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "-",
@@ -699,7 +699,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "18:00",
         "fin": "21:00",
         "aula": "-",
@@ -714,7 +714,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "16:00",
         "fin": "19.00",
         "aula": "-",
@@ -729,7 +729,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "-",
@@ -744,7 +744,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "16:00",
         "fin": "19.00",
         "aula": "-",
@@ -759,7 +759,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "16:00",
         "fin": "19:00",
         "aula": "-",
@@ -774,7 +774,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "10:00",
         "fin": "12:00",
         "aula": "-",
@@ -783,7 +783,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "AULA 5",
@@ -792,7 +792,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "10:00",
         "fin": "12:00",
         "aula": "-",
@@ -801,7 +801,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "AULA 5",
@@ -821,7 +821,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "PB",
@@ -836,7 +836,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Viernes",
+        "dia": "VIERNES",
         "inicio": "18:30",
         "fin": "21:30",
         "aula": "PB",
@@ -866,7 +866,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "0",
@@ -875,7 +875,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "PECERA",
@@ -905,7 +905,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "19:00",
         "fin": "23:00",
         "aula": "PB",

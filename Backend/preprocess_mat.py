@@ -74,7 +74,7 @@ def procesar_excel_a_json(archivo_excel):
             horario_data = {
                 "tipo": tipo_clase if tipo_clase else "-",
                 "comision": comision if comision else "-",
-                "dia": d if d else "-",
+                "dia": d.upper() if d else "-",
                 "inicio": inicio if inicio else "-",
                 "fin": fin if fin else "-",
                 "aula": f if f else "-",

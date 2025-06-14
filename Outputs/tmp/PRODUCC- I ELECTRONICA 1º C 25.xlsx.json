@@ -87,7 +87,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "10",
         "fin": "13",
         "aula": "AULA 1",
@@ -96,7 +96,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "10",
         "fin": "13",
         "aula": "B202-A",
@@ -105,7 +105,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "13",
         "fin": "16",
         "aula": "B102-B",
@@ -114,7 +114,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "13",
         "fin": "16",
         "aula": "B202-A",
@@ -123,7 +123,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "16",
         "fin": "19",
         "aula": "B102-B",
@@ -132,7 +132,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "16",
         "fin": "19",
         "aula": "B202-A",
@@ -147,7 +147,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "9",
         "fin": "11",
         "aula": "B202-A",
@@ -156,7 +156,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "9",
         "fin": "11",
         "aula": "4 \"C\"",
@@ -165,7 +165,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "9",
         "fin": "11",
         "aula": "B102-B",
@@ -174,7 +174,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "9",
         "fin": "11",
         "aula": "B102-B",
@@ -183,7 +183,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "11",
         "fin": "13",
         "aula": "B102-B",
@@ -192,7 +192,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "11",
         "fin": "13",
         "aula": "B102-B",
@@ -207,7 +207,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "9",
         "fin": "11",
         "aula": "B101",
@@ -216,7 +216,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "9",
         "fin": "11",
         "aula": "B101",
@@ -225,7 +225,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "13",
         "fin": "15",
         "aula": "B102-A",
@@ -234,7 +234,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "13",
         "fin": "15",
         "aula": "B102-A",
@@ -243,7 +243,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "17",
         "fin": "21",
         "aula": "4 \"B\"",
@@ -645,7 +645,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Martes",
+        "dia": "MARTES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "B202-A",
@@ -654,7 +654,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Jueves",
+        "dia": "JUEVES",
         "inicio": "19:00",
         "fin": "22:00",
         "aula": "4 \"C\"",
@@ -693,7 +693,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Lunes",
+        "dia": "LUNES",
         "inicio": "17:30",
         "fin": "20:30",
         "aula": "LAB 105",
@@ -702,7 +702,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "Miercoles",
+        "dia": "MIERCOLES",
         "inicio": "17:30",
         "fin": "20:30",
         "aula": "LAB 105",
