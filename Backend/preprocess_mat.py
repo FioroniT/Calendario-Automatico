@@ -60,7 +60,9 @@ def procesar_excel_a_json(archivo_excel):
                     tipo_clase = "TEORICO/PRACTICO"
             inicio, fin = None, None
             if g:
-                if " a " in g:
+                if " A " in g:
+                    horario_parts = g.split(" A ")
+                elif " a " in g:
                     horario_parts = g.split(" a ")
                 elif " - " in g:
                     horario_parts = g.split(" - ")
