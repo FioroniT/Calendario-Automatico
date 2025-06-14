@@ -6,7 +6,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "LUNES",
+        "dia": "lunes",
         "inicio": "19:00",
         "fin": "21:00",
         "aula": "B103",
@@ -15,7 +15,7 @@
       {
         "tipo": "PRACTICA",
         "comision": "C1",
-        "dia": "JUEVES",
+        "dia": "jueves",
         "inicio": "15.00",
         "fin": "17.00",
         "aula": "AULA 1",
@@ -24,7 +24,7 @@
       {
         "tipo": "PRACTICA",
         "comision": "C2",
-        "dia": "JUEVES",
+        "dia": "jueves",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "AULA 5",
@@ -39,7 +39,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "LUNES",
+        "dia": "lunes",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "B103",
@@ -48,7 +48,7 @@
       {
         "tipo": "PRACTICA",
         "comision": "C1",
-        "dia": "VIERNES",
+        "dia": "viernes",
         "inicio": "15:00",
         "fin": "17:00",
         "aula": "B202-A",
@@ -57,7 +57,7 @@
       {
         "tipo": "PRACTICA",
         "comision": "C2",
-        "dia": "VIERNES",
+        "dia": "viernes",
         "inicio": "17.00",
         "fin": "19.00",
         "aula": "B202-A",
@@ -72,7 +72,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "LUNES",
+        "dia": "lunes",
         "inicio": "15.00",
         "fin": "17.00",
         "aula": "B202-A",
@@ -81,7 +81,7 @@
       {
         "tipo": "PRACTICA",
         "comision": "C1",
-        "dia": "MARTES",
+        "dia": "martes",
         "inicio": "10:00",
         "fin": "12:00",
         "aula": "AULA 1",
@@ -90,7 +90,7 @@
       {
         "tipo": "PRACTICA",
         "comision": "C2",
-        "dia": "MARTES",
+        "dia": "martes",
         "inicio": "12:30",
         "fin": "14:30",
         "aula": "AULA 1",
@@ -105,7 +105,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "MARTES",
+        "dia": "martes",
         "inicio": "17:00",
         "fin": "19:00",
         "aula": "B202-B",
@@ -114,7 +114,7 @@
       {
         "tipo": "PRACTICA",
         "comision": "C1",
-        "dia": "MIERCOLES",
+        "dia": "miercoles",
         "inicio": "09:00",
         "fin": "13:00",
         "aula": "-",
@@ -123,7 +123,7 @@
       {
         "tipo": "PRACTICA",
         "comision": "C2",
-        "dia": "MIERCOLES",
+        "dia": "miercoles",
         "inicio": "14.00",
         "fin": "18.00",
         "aula": "-",
@@ -138,7 +138,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "VIERNES",
+        "dia": "viernes",
         "inicio": "09.00",
         "fin": "11.00",
         "aula": "AULA 4",
@@ -147,7 +147,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "VIERNES",
+        "dia": "viernes",
         "inicio": "11.00",
         "fin": "13.00",
         "aula": "AULA 4",

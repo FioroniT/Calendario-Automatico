@@ -40,7 +40,11 @@ def procesar_excel_a_json(archivo_excel):
         if materia_actual and d and d != "nan":
             norm = unicodedata.normalize('NFKD', d)
             d = ''.join([c for c in norm if not unicodedata.combining(c)])
+            d.upper()
             comision = "C1"
+            if d:
+                if d == "MIÉRCOLES":
+                    d = "MIERCOLES"
             if c:
                 match = re.search(r'C\d+', c)
                 if match:
@@ -70,7 +74,7 @@ def procesar_excel_a_json(archivo_excel):
             horario_data = {
                 "tipo": tipo_clase if tipo_clase else "-",
                 "comision": comision if comision else "-",
-                "dia": d.upper() if d else "-",
+                "dia": d if d else "-",
                 "inicio": inicio if inicio else "-",
                 "fin": fin if fin else "-",
                 "aula": f if f else "-",

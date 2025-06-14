@@ -6,7 +6,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO",
+        "dia": "Teorico",
         "inicio": "7",
         "fin": "7",
         "aula": "Presencial",
@@ -21,7 +21,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO",
+        "dia": "Teorico",
         "inicio": "7",
         "fin": "7",
         "aula": "Presencial",
@@ -36,7 +36,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO",
+        "dia": "Teorico",
         "inicio": "5",
         "fin": "5",
         "aula": "Presencial",
@@ -51,7 +51,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "COM 1\nTEORICO",
+        "dia": "Com 1\nTeorico",
         "inicio": "8",
         "fin": "8",
         "aula": "Presencial",
@@ -60,7 +60,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "COM 2\nTEORICO",
+        "dia": "Com 2\nTeorico",
         "inicio": "-",
         "fin": "-",
         "aula": "Asincrónico",
@@ -75,7 +75,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO",
+        "dia": "Teorico",
         "inicio": "7",
         "fin": "7",
         "aula": "Presencial",
@@ -84,7 +84,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRACTICO COM 1",
+        "dia": "Practico Com 1",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -93,7 +93,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRACTICO COM 2",
+        "dia": "Practico Com 2",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -102,7 +102,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRACTICO COM 3",
+        "dia": "Practico Com 3",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -111,7 +111,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRACTICO COM 4",
+        "dia": "Practico Com 4",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -126,7 +126,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO \nPRACTICO COM 3",
+        "dia": "Teorico \nPractico Com 3",
         "inicio": "8 + Lab.",
         "fin": "8 + Lab.",
         "aula": "Presencial",
@@ -135,7 +135,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRACTICO, COM 1",
+        "dia": "Practico, Com 1",
         "inicio": "7 + Lab.",
         "fin": "7 + Lab.",
         "aula": "Presencial",
@@ -144,7 +144,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO COM 1",
+        "dia": "Teorico Com 1",
         "inicio": "-",
         "fin": "-",
         "aula": "Asincrónico",
@@ -153,7 +153,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "PRACTICO, COM 2",
+        "dia": "Practico, Com 2",
         "inicio": "7 + Lab.",
         "fin": "7 + Lab.",
         "aula": "Presencial",
@@ -162,7 +162,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO COM 2",
+        "dia": "Teorico Com 2",
         "inicio": "-",
         "fin": "-",
         "aula": "Asincrónico",
@@ -177,7 +177,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO -PRACTICO",
+        "dia": "Teorico -Practico",
         "inicio": "6",
         "fin": "6",
         "aula": "Virtual",
@@ -216,7 +216,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO \nPRACTICO",
+        "dia": "Teorico \nPractico",
         "inicio": "6",
         "fin": "6",
         "aula": "Presencial",
@@ -231,7 +231,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO",
+        "dia": "Teorico",
         "inicio": "5",
         "fin": "5",
         "aula": "Presencial",
@@ -246,7 +246,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO",
+        "dia": "Teorico",
         "inicio": "3",
         "fin": "3",
         "aula": "Presencial",
@@ -261,7 +261,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO \nPRACTICO",
+        "dia": "Teorico \nPractico",
         "inicio": "5",
         "fin": "5",
         "aula": "Presencial",
@@ -276,7 +276,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO \nPRACTICO",
+        "dia": "Teorico \nPractico",
         "inicio": "5 + Lab.",
         "fin": "5 + Lab.",
         "aula": "Presencial",
@@ -291,7 +291,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO \nPRACTICO",
+        "dia": "Teorico \nPractico",
         "inicio": "2 + Lab.",
         "fin": "2 + Lab.",
         "aula": "Presencial",
@@ -306,7 +306,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO \nPRACTICO",
+        "dia": "Teorico \nPractico",
         "inicio": "6",
         "fin": "6",
         "aula": "Presencial",
@@ -321,7 +321,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO \nPRACTICO",
+        "dia": "Teorico \nPractico",
         "inicio": "6",
         "fin": "6",
         "aula": "Presencial",
@@ -336,7 +336,7 @@
       {
         "tipo": "CLASE",
         "comision": "C1",
-        "dia": "TEORICO \nPRACTICO",
+        "dia": "Teorico \nPractico",
         "inicio": "2",
         "fin": "2",
         "aula": "Presencial",

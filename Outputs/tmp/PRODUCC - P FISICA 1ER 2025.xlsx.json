@@ -417,7 +417,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "VIERNES",
+        "dia": "Viernes",
         "inicio": "17:00",
         "fin": "21:00",
         "aula": "0",
@@ -432,7 +432,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "JUEVES",
+        "dia": "jueves",
         "inicio": "17:00",
         "fin": "20:00",
         "aula": "OF COORDINACION FISICA",
@@ -441,7 +441,7 @@
       {
         "tipo": "TEORIA",
         "comision": "C1",
-        "dia": "LUNES",
+        "dia": "lunes",
         "inicio": "17:00",
         "fin": "20:00",
         "aula": "OF COORDINACION FISICA",
