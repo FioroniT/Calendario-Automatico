@@ -262,8 +262,8 @@
         "tipo": "CLASE",
         "comision": "C1",
         "dia": "VIERNES",
-        "inicio": "17:00 A 19:00",
-        "fin": "17:00 A 19:00",
+        "inicio": "17:00",
+        "fin": "19:00",
         "aula": "AULA 5",
         "lugar": "TACUARI 150"
       }
