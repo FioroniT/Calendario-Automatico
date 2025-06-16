@@ -5,6 +5,8 @@
   left: 28%;
   align-self: center;
   border: 5px;
+  max-width: 300px;
+  word-wrap: break-word;
 }
 
 .table-style tr{
