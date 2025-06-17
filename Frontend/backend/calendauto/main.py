@@ -50,5 +50,9 @@ def submit():
     botones = zip(selected_options, links)
     return render_template('botones.html', botones=botones)
 
+@app.errorhandler(404)
+def pagina_no_encontrada(error):
+    return render_template('404.html'), 404
+
 if __name__ == '__main__':
     app.run(debug=True)
