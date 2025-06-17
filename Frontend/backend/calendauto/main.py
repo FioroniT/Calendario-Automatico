@@ -37,18 +37,16 @@ def submit():
     carreraData = 0
     links = []
     links_path = os.path.join(os.path.dirname(__file__), 'static', 'links.json')
+    
     with open(links_path, 'r', encoding='utf-8') as f:
         carreraData = json.load(f)
         f.close()
     
     for data in complete_data:
-        links.append(carreraData.get(selected_carrera, {}).get(data[0], {}).get(data[1]).get("link"))
+        links.append(carreraData.get(selected_carrera, {}).get(data[0], {}).get(data[1], {}).get("link"))
 
     #selected_options.append(selected_carrera)
 
-    print(selected_options)
-    print(links)
-    
     botones = zip(selected_options, links)
     return render_template('botones.html', botones=botones)
 
