@@ -1,0 +1,25 @@
+.botones{
+    display: flex;
+    position: absolute;
+    top: 25%;
+    left: 28%;
+    align-self: center;
+    border: 5px;
+    background-color: #aa1111 ;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    font-family: "Arial";
+    border: 1px;
+    cursor: pointer;
+    min-width: 600px;
+    border-radius: 15px;
+}
+
+.botones-container {
+    position: relative;
+    min-width: 600px;
+    align-content: center;
+    text-decoration: none;
+    font-family: "Arial";
+}
