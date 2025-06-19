@@ -102,9 +102,16 @@ min_max = df.groupby('motivo')['fecha_iso'].agg(['min', 'max']).reset_index() # 
 
 result = {}
 for _, row in min_max.iterrows():
-    result[row['min']] = row['motivo']
-    if row['max'] != row['min']:
-        result[row['max']] = row['motivo']
+    motivo = row['motivo']
+    fecha_inicio = row['min']
+    fecha_fin = row['max']
+    if fecha_fin != fecha_inicio:
+        if "Inicio" not in motivo:
+            result[fecha_inicio] = f"Inicio de {motivo}"
+        if "Fin" not in motivo or "Finalización" not in motivo:
+            result[fecha_fin] = f"Fin de {motivo}"
+    else:
+        result[fecha_inicio] = motivo
 
 result = dict(sorted(result.items(), key=lambda x: x[0]))
 
