@@ -4,8 +4,7 @@
     <link rel="icon" type="image/jpg" href="{{ url_for('static',filename='./images/favicon.jpg') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='./css/index.css') }}">
     <script>
-      const carreras_source = {{ filesData|safe }};
-      const materias_source = {{ fileData|safe }};
+      const json_source = {{ fileData|safe }};
     </script>
   </head>
   <body>

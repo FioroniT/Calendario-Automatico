@@ -1,5 +1,4 @@
 var flag_carrera = 0;
-const carreras_obj = materias_source;//JSON.parse(json_text);
 
 function dropDownCarreras() {
   document.getElementById("dpdw-carreras").classList.toggle("show");

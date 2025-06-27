@@ -5,21 +5,16 @@ from os import listdir
 from os.path import isfile, join
 app = Flask(__name__)
 
+def get_links(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        fileData = json.load(f)
+        f.close()
+        return fileData
+
 @app.route('/')
 def index():
-    outputs_dir = os.path.join(os.path.dirname(__file__), 'static', 'Outputs')
-    if not os.path.exists(outputs_dir):
-        os.makedirs(outputs_dir)
-    filesData = [f for f in listdir(outputs_dir) if isfile(join(outputs_dir, f))]
-    fileData = {}
-    j = 0
-    for i in filesData:
-        with open(os.path.join(outputs_dir, i), 'r', encoding='utf-8') as f:
-            fileData[j]= json.load(f)
-            f.close()
-        j=j+1
-
-    return render_template('index.html',  filesData = filesData, fileData = fileData)
+    fileData = get_links(os.path.join(os.path.dirname(__file__), '../../../Outputs', 'links_completo_prueba.json'))
+    return render_template('index.html', fileData = fileData)
 
 @app.route('/submit', methods=['POST'])
 def submit():
@@ -36,15 +31,18 @@ def submit():
     complete_data = list(zip(materias, comisiones))
     carreraData = 0
     links = []
-    links_path = os.path.join(os.path.dirname(__file__), 'static', 'links.json')
+    links_path = os.path.join(os.path.dirname(__file__), '../../../Outputs', 'links_completo_prueba.json')
     
     with open(links_path, 'r', encoding='utf-8') as f:
         carreraData = json.load(f)
         f.close()
     
+    
     for data in complete_data:
         links.append(carreraData.get(selected_carrera, {}).get(data[0], {}).get(data[1], {}).get("link"))
 
+    links.append(carreraData.get("Calendario Academico",{}).get("link"))
+    selected_options.append("Calendario Academico")
     #selected_options.append(selected_carrera)
 
     botones = zip(selected_options, links)
@@ -56,3 +54,4 @@ def pagina_no_encontrada(error):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
