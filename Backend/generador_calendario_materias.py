@@ -1,3 +1,4 @@
+import os
 import sys
 import datetime
 import json
@@ -18,9 +19,11 @@ num_dia = {
 }
 semanas_cuatrimestre = 16
 
+
 # Credenciales
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
-SERVICE_ACCOUNT_FILE = "service_account_file.json" #Archivo no incluido en github
+dir_absoluto = os.path.dirname(os.path.abspath(__file__))
+SERVICE_ACCOUNT_FILE = os.path.join(dir_absoluto, "Credenciales", "service_account_file.json") #Archivo no incluido en github
 
 def main():
     if len(sys.argv) < 3:
