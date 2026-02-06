@@ -16,7 +16,6 @@ num_dia = {
     "SABADO": 5,
     "DOMINGO": 6,
 }
-inicio_clases = datetime.date(2025, 3, 2)
 semanas_cuatrimestre = 16
 
 # Credenciales
@@ -28,6 +27,12 @@ def main():
         print("No se especifico archivo")
         print("Formato: programa.py input.json output.json")
         return
+    
+    print("Se requiere la fecha del domingo anterior al inicio de dictado de clases.")
+    inicio_ano = int(input("Ingrese el año (YYYY): "))
+    inicio_mes = int(input("Ingrese el mes (1-12): "))
+    inicio_dia = int(input("Ingrese el dia (1-31): "))
+    inicio_clases = datetime.date(inicio_ano, inicio_mes, inicio_dia)
     
     creds = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES
@@ -44,8 +49,6 @@ def main():
     else:
         print("Archivo inexistente, se creara uno nuevo")
         output_data = {}
-
-    #cantidad_prueba = 5                               # BORRAR PARA EL CALENDARIO COMPLETO
     try:
         for carrera in file_data:
             if not (carrera in output_data):
@@ -59,9 +62,6 @@ def main():
 
                     # Si no existe la comision, se crea su calendario
                     if not (horario["comision"] in output_data[carrera][materia]):
-                        #cantidad_prueba -= 1                     # BORRAR PARA EL CALENDARIO COMPLETO
-                        #if cantidad_prueba < 1:                  # BORRAR PARA EL CALENDARIO COMPLETO
-                        #    raise ValueError("ripeo")            # BORRAR PARA EL CALENDARIO COMPLETO
                         print(f'Generando Calendario {materia} {horario["comision"]}')
                         cuerpo_calendario = {
                             "summary": f"{materia} {horario["comision"]}",
